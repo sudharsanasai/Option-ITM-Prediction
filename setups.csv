@@ -1,0 +1,20 @@
+,5_day,1_day,10_day,21_day
+AUC,0.5619023182314322,0.5386164792620793,0.5556371953687961,0.5948759788412512
+binary_threshold,0.0005,0.001,0.001,0.001
+initial_filters,"['filter_by_best_window', None, 'filter_by_mutual_information']","[None, 'filter_by_variance', None]","[None, 'filter_by_best_window', 'filter_by_mutual_information']","['filter_by_mutual_information', None, 'filter_by_best_window']"
+feature_selection,k_best_feature_selection,random_forest_feature_selection,random_forest_feature_selection,rfe_feature_selection
+hyperparameters,"{'filter_by_best_window': {'metric': 'corr'}, 'filter_by_mutual_information': {'threshold': 0.001}, 'k_best_feature_selection': {'metric': 'MI', 'n_features': 15}}","{'filter_by_variance': {'threshold': 0.1}, 'random_forest_feature_selection': {'n_features': 10}}","{'filter_by_best_window': {'metric': 'corr'}, 'filter_by_mutual_information': {'threshold': 0}, 'random_forest_feature_selection': {'n_features': 20}}","{'filter_by_mutual_information': {'threshold': 0.002}, 'filter_by_best_window': {'metric': 'MI'}, 'rfe_feature_selection': {'n_features': 8}}"
+features,"Index(['rsi', 'atr', 'mom', 'jnk_rolling_30_day', 'return_5d',
+       'CDL3BLACKCROWS', 'CDL3INSIDE', 'CDLABANDONEDBABY', 'CDLADVANCEBLOCK',
+       'CDLCLOSINGMARUBOZU', 'CDLLADDERBOTTOM', 'CDLLONGLINE',
+       'CDLMATCHINGLOW', 'CDLONNECK', 'CDLSHORTLINE'],
+      dtype='object')","Index(['volume', 'rsi', 'atr', 'macd', 'mom', 'roc', 'CDLCLOSINGMARUBOZU',
+       'CDLHIKKAKE', 'CDLHOMINGPIGEON', 'CDLMATCHINGLOW'],
+      dtype='object')","Index(['rsi', 'bb_high', 'atr', 'macd', 'mom', 'dxy_rolling_30_day',
+       'aapl_rolling_30_day', 'tnx_daily', 'jnk_rolling_21_day', 'return_5d',
+       'return_21d', 'return_42d', 'return_63d', 'CDL3OUTSIDE', 'CDLBELTHOLD',
+       'CDLDOJI', 'CDLLONGLEGGEDDOJI', 'CDLMARUBOZU', 'CDLMATCHINGLOW',
+       'CDLSHOOTINGSTAR'],
+      dtype='object')","Index(['volume', 'atr', 'macd', 'msft_rolling_30_day', 'gld_rolling_14_day',
+       'tnx_rolling_30_day', 'return_42d', 'return_63d'],
+      dtype='object')"
