@@ -1,0 +1,2861 @@
+,Feature Transform,model_type,C,no_of_features,Confusion Matrix,AUC Score,Min Leaves,Number of Neighbors,metric,weight,no_of_trees,min_leaves,Kernel
+0,,Logistic Regression,100.0,5,"[[94 61]
+ [89 56]]",0.4963292547274749,,,,,,,
+1,,Logistic Regression,10.0,5,"[[94 61]
+ [88 57]]",0.499777530589544,,,,,,,
+2,,Logistic Regression,1.0,5,"[[94 61]
+ [88 57]]",0.499777530589544,,,,,,,
+3,,Logistic Regression,0.1,5,"[[96 59]
+ [90 55]]",0.4993325917686318,,,,,,,
+4,,Logistic Regression,0.01,5,"[[103  52]
+ [102  43]]",0.48053392658509453,,,,,,,
+5,,Logistic Regression,100.0,10,"[[91 64]
+ [90 55]]",0.48320355951056737,,,,,,,
+6,,Logistic Regression,10.0,10,"[[92 63]
+ [85 60]]",0.503670745272525,,,,,,,
+7,,Logistic Regression,1.0,10,"[[93 62]
+ [85 60]]",0.506896551724138,,,,,,,
+8,,Logistic Regression,0.1,10,"[[93 62]
+ [85 60]]",0.506896551724138,,,,,,,
+9,,Logistic Regression,0.01,10,"[[103  52]
+ [ 86  59]]",0.535706340378198,,,,,,,
+10,,Logistic Regression,100.0,15,"[[91 64]
+ [90 55]]",0.48320355951056737,,,,,,,
+11,,Logistic Regression,10.0,15,"[[92 63]
+ [85 60]]",0.503670745272525,,,,,,,
+12,,Logistic Regression,1.0,15,"[[93 62]
+ [85 60]]",0.506896551724138,,,,,,,
+13,,Logistic Regression,0.1,15,"[[93 62]
+ [85 60]]",0.506896551724138,,,,,,,
+14,,Logistic Regression,0.01,15,"[[103  52]
+ [ 86  59]]",0.535706340378198,,,,,,,
+15,,Logistic Regression,100.0,20,"[[93 62]
+ [86 59]]",0.5034482758620689,,,,,,,
+16,,Logistic Regression,10.0,20,"[[93 62]
+ [88 57]]",0.4965517241379311,,,,,,,
+17,,Logistic Regression,1.0,20,"[[93 62]
+ [87 58]]",0.5,,,,,,,
+18,,Logistic Regression,0.1,20,"[[94 61]
+ [86 59]]",0.5066740823136818,,,,,,,
+19,,Logistic Regression,0.01,20,"[[104  51]
+ [ 88  57]]",0.532035595105673,,,,,,,
+20,,Logistic Regression,100.0,25,"[[81 74]
+ [80 65]]",0.4854282536151279,,,,,,,
+21,,Logistic Regression,10.0,25,"[[88 67]
+ [76 69]]",0.5218020022246941,,,,,,,
+22,,Logistic Regression,1.0,25,"[[91 64]
+ [65 80]]",0.5694104560622915,,,,,,,
+23,,Logistic Regression,0.1,25,"[[92 63]
+ [66 79]]",0.5691879866518353,,,,,,,
+24,,Logistic Regression,0.01,25,"[[93 62]
+ [66 79]]",0.5724137931034483,,,,,,,
+25,,Logistic Regression,100.0,30,"[[79 76]
+ [80 65]]",0.47897664071190216,,,,,,,
+26,,Logistic Regression,10.0,30,"[[82 73]
+ [67 78]]",0.5334816462736374,,,,,,,
+27,,Logistic Regression,1.0,30,"[[83 72]
+ [68 77]]",0.5332591768631813,,,,,,,
+28,,Logistic Regression,0.1,30,"[[85 70]
+ [67 78]]",0.543159065628476,,,,,,,
+29,,Logistic Regression,0.01,30,"[[89 66]
+ [68 77]]",0.5526140155728587,,,,,,,
+30,,Logistic Regression,100.0,35,"[[80 75]
+ [82 63]]",0.47530589543937707,,,,,,,
+31,,Logistic Regression,10.0,35,"[[86 69]
+ [72 73]]",0.5291434927697442,,,,,,,
+32,,Logistic Regression,1.0,35,"[[86 69]
+ [72 73]]",0.5291434927697442,,,,,,,
+33,,Logistic Regression,0.1,35,"[[89 66]
+ [73 72]]",0.535372636262514,,,,,,,
+34,,Logistic Regression,0.01,35,"[[91 64]
+ [71 74]]",0.5487208008898777,,,,,,,
+35,,Logistic Regression,100.0,40,"[[81 74]
+ [84 61]]",0.47163515016685204,,,,,,,
+36,,Logistic Regression,10.0,40,"[[85 70]
+ [74 71]]",0.5190211345939932,,,,,,,
+37,,Logistic Regression,1.0,40,"[[86 69]
+ [71 74]]",0.5325917686318131,,,,,,,
+38,,Logistic Regression,0.1,40,"[[87 68]
+ [69 76]]",0.542714126807564,,,,,,,
+39,,Logistic Regression,0.01,40,"[[91 64]
+ [70 75]]",0.5521690767519466,,,,,,,
+40,,Logistic Regression,100.0,45,"[[82 73]
+ [87 58]]",0.46451612903225803,,,,,,,
+41,,Logistic Regression,10.0,45,"[[86 69]
+ [71 74]]",0.5325917686318131,,,,,,,
+42,,Logistic Regression,1.0,45,"[[86 69]
+ [71 74]]",0.5325917686318131,,,,,,,
+43,,Logistic Regression,0.1,45,"[[87 68]
+ [70 75]]",0.539265850945495,,,,,,,
+44,,Logistic Regression,0.01,45,"[[91 64]
+ [70 75]]",0.5521690767519466,,,,,,,
+45,,Logistic Regression,100.0,50,"[[82 73]
+ [89 56]]",0.45761957730812014,,,,,,,
+46,,Logistic Regression,10.0,50,"[[86 69]
+ [71 74]]",0.5325917686318131,,,,,,,
+47,,Logistic Regression,1.0,50,"[[86 69]
+ [71 74]]",0.5325917686318131,,,,,,,
+48,,Logistic Regression,0.1,50,"[[89 66]
+ [70 75]]",0.5457174638487208,,,,,,,
+49,,Logistic Regression,0.01,50,"[[91 64]
+ [70 75]]",0.5521690767519466,,,,,,,
+50,,Decision Tree Regressor,,5,"[[103  52]
+ [ 89  56]]",0.5253615127919911,2.0,,,,,,
+51,,Decision Tree Regressor,,5,"[[64 91]
+ [53 92]]",0.5236929922135707,4.0,,,,,,
+52,,Decision Tree Regressor,,5,"[[76 79]
+ [58 87]]",0.5451612903225806,8.0,,,,,,
+53,,Decision Tree Regressor,,5,"[[ 55 100]
+ [ 48  97]]",0.5119021134593994,16.0,,,,,,
+54,,Decision Tree Regressor,,5,"[[ 46 109]
+ [ 52  93]]",0.4690767519466073,32.0,,,,,,
+55,,Decision Tree Regressor,,5,"[[ 42 113]
+ [ 38 107]]",0.5044493882091212,64.0,,,,,,
+56,,Decision Tree Regressor,,5,"[[ 38 117]
+ [ 31 114]]",0.5156840934371524,128.0,,,,,,
+57,,Decision Tree Regressor,,5,"[[104  51]
+ [102  43]]",0.4837597330367074,256.0,,,,,,
+58,,Decision Tree Regressor,,10,"[[78 77]
+ [61 84]]",0.5412680756395996,2.0,,,,,,
+59,,Decision Tree Regressor,,10,"[[74 81]
+ [50 95]]",0.5662958843159065,4.0,,,,,,
+60,,Decision Tree Regressor,,10,"[[ 65  90]
+ [ 34 111]]",0.5924360400444939,8.0,,,,,,
+61,,Decision Tree Regressor,,10,"[[ 59  96]
+ [ 28 117]]",0.5937708565072302,16.0,,,,,,
+62,,Decision Tree Regressor,,10,"[[72 83]
+ [47 98]]",0.5701890989988876,32.0,,,,,,
+63,,Decision Tree Regressor,,10,"[[69 86]
+ [47 98]]",0.560511679644049,64.0,,,,,,
+64,,Decision Tree Regressor,,10,"[[104  51]
+ [101  44]]",0.48720800889877636,128.0,,,,,,
+65,,Decision Tree Regressor,,10,"[[104  51]
+ [102  43]]",0.4837597330367074,256.0,,,,,,
+66,,Decision Tree Regressor,,15,"[[72 83]
+ [48 97]]",0.5667408231368187,2.0,,,,,,
+67,,Decision Tree Regressor,,15,"[[69 86]
+ [49 96]]",0.5536151279199111,4.0,,,,,,
+68,,Decision Tree Regressor,,15,"[[ 63  92]
+ [ 38 107]]",0.5721913236929923,8.0,,,,,,
+69,,Decision Tree Regressor,,15,"[[ 55 100]
+ [ 25 120]]",0.5912124582869855,16.0,,,,,,
+70,,Decision Tree Regressor,,15,"[[74 81]
+ [50 95]]",0.5662958843159065,32.0,,,,,,
+71,,Decision Tree Regressor,,15,"[[ 57  98]
+ [ 41 104]]",0.5424916573971079,64.0,,,,,,
+72,,Decision Tree Regressor,,15,"[[104  51]
+ [101  44]]",0.48720800889877636,128.0,,,,,,
+73,,Decision Tree Regressor,,15,"[[104  51]
+ [102  43]]",0.4837597330367074,256.0,,,,,,
+74,,Decision Tree Regressor,,20,"[[80 75]
+ [67 78]]",0.5270300333704115,2.0,,,,,,
+75,,Decision Tree Regressor,,20,"[[70 85]
+ [58 87]]",0.5258064516129033,4.0,,,,,,
+76,,Decision Tree Regressor,,20,"[[79 76]
+ [75 70]]",0.496218020022247,8.0,,,,,,
+77,,Decision Tree Regressor,,20,"[[ 59  96]
+ [ 32 113]]",0.5799777530589544,16.0,,,,,,
+78,,Decision Tree Regressor,,20,"[[ 67  88]
+ [ 41 104]]",0.5747497219132369,32.0,,,,,,
+79,,Decision Tree Regressor,,20,"[[ 57  98]
+ [ 41 104]]",0.5424916573971079,64.0,,,,,,
+80,,Decision Tree Regressor,,20,"[[104  51]
+ [101  44]]",0.48720800889877636,128.0,,,,,,
+81,,Decision Tree Regressor,,20,"[[104  51]
+ [102  43]]",0.4837597330367074,256.0,,,,,,
+82,,Decision Tree Regressor,,25,"[[86 69]
+ [55 90]]",0.5877641824249166,2.0,,,,,,
+83,,Decision Tree Regressor,,25,"[[59 96]
+ [58 87]]",0.4903225806451613,4.0,,,,,,
+84,,Decision Tree Regressor,,25,"[[85 70]
+ [76 69]]",0.5121245828698554,8.0,,,,,,
+85,,Decision Tree Regressor,,25,"[[ 61  94]
+ [ 38 107]]",0.5657397107897664,16.0,,,,,,
+86,,Decision Tree Regressor,,25,"[[79 76]
+ [52 93]]",0.5755283648498333,32.0,,,,,,
+87,,Decision Tree Regressor,,25,"[[ 57  98]
+ [ 41 104]]",0.5424916573971079,64.0,,,,,,
+88,,Decision Tree Regressor,,25,"[[104  51]
+ [101  44]]",0.48720800889877636,128.0,,,,,,
+89,,Decision Tree Regressor,,25,"[[104  51]
+ [102  43]]",0.4837597330367074,256.0,,,,,,
+90,,Decision Tree Regressor,,30,"[[73 82]
+ [48 97]]",0.5699666295884316,2.0,,,,,,
+91,,Decision Tree Regressor,,30,"[[ 53 102]
+ [ 41 104]]",0.5295884315906563,4.0,,,,,,
+92,,Decision Tree Regressor,,30,"[[84 71]
+ [76 69]]",0.5088987764182425,8.0,,,,,,
+93,,Decision Tree Regressor,,30,"[[ 61  94]
+ [ 38 107]]",0.5657397107897664,16.0,,,,,,
+94,,Decision Tree Regressor,,30,"[[79 76]
+ [52 93]]",0.5755283648498333,32.0,,,,,,
+95,,Decision Tree Regressor,,30,"[[ 57  98]
+ [ 41 104]]",0.5424916573971079,64.0,,,,,,
+96,,Decision Tree Regressor,,30,"[[104  51]
+ [101  44]]",0.48720800889877636,128.0,,,,,,
+97,,Decision Tree Regressor,,30,"[[104  51]
+ [102  43]]",0.4837597330367074,256.0,,,,,,
+98,,Decision Tree Regressor,,35,"[[83 72]
+ [58 87]]",0.5677419354838709,2.0,,,,,,
+99,,Decision Tree Regressor,,35,"[[65 90]
+ [67 78]]",0.478642936596218,4.0,,,,,,
+100,,Decision Tree Regressor,,35,"[[86 69]
+ [84 61]]",0.48776418242491654,8.0,,,,,,
+101,,Decision Tree Regressor,,35,"[[ 61  94]
+ [ 38 107]]",0.5657397107897664,16.0,,,,,,
+102,,Decision Tree Regressor,,35,"[[75 80]
+ [52 93]]",0.5626251390433815,32.0,,,,,,
+103,,Decision Tree Regressor,,35,"[[ 57  98]
+ [ 41 104]]",0.5424916573971079,64.0,,,,,,
+104,,Decision Tree Regressor,,35,"[[104  51]
+ [101  44]]",0.48720800889877636,128.0,,,,,,
+105,,Decision Tree Regressor,,35,"[[104  51]
+ [102  43]]",0.4837597330367074,256.0,,,,,,
+106,,Decision Tree Regressor,,40,"[[81 74]
+ [46 99]]",0.6026696329254728,2.0,,,,,,
+107,,Decision Tree Regressor,,40,"[[61 94]
+ [65 80]]",0.47263626251390434,4.0,,,,,,
+108,,Decision Tree Regressor,,40,"[[74 81]
+ [68 77]]",0.5042269187986652,8.0,,,,,,
+109,,Decision Tree Regressor,,40,"[[ 58  97]
+ [ 41 104]]",0.5457174638487208,16.0,,,,,,
+110,,Decision Tree Regressor,,40,"[[75 80]
+ [52 93]]",0.5626251390433815,32.0,,,,,,
+111,,Decision Tree Regressor,,40,"[[ 57  98]
+ [ 41 104]]",0.5424916573971079,64.0,,,,,,
+112,,Decision Tree Regressor,,40,"[[104  51]
+ [101  44]]",0.48720800889877636,128.0,,,,,,
+113,,Decision Tree Regressor,,40,"[[104  51]
+ [102  43]]",0.4837597330367074,256.0,,,,,,
+114,,Decision Tree Regressor,,45,"[[71 84]
+ [49 96]]",0.5600667408231368,2.0,,,,,,
+115,,Decision Tree Regressor,,45,"[[58 97]
+ [57 88]]",0.4905450500556173,4.0,,,,,,
+116,,Decision Tree Regressor,,45,"[[74 81]
+ [69 76]]",0.5007786429365962,8.0,,,,,,
+117,,Decision Tree Regressor,,45,"[[ 53 102]
+ [ 32 113]]",0.5606229143492769,16.0,,,,,,
+118,,Decision Tree Regressor,,45,"[[ 66  89]
+ [ 38 107]]",0.5818687430478309,32.0,,,,,,
+119,,Decision Tree Regressor,,45,"[[ 57  98]
+ [ 41 104]]",0.5424916573971079,64.0,,,,,,
+120,,Decision Tree Regressor,,45,"[[104  51]
+ [101  44]]",0.48720800889877636,128.0,,,,,,
+121,,Decision Tree Regressor,,45,"[[104  51]
+ [102  43]]",0.4837597330367074,256.0,,,,,,
+122,,Decision Tree Regressor,,50,"[[80 75]
+ [61 84]]",0.5477196885428254,2.0,,,,,,
+123,,Decision Tree Regressor,,50,"[[ 54 101]
+ [ 50  95]]",0.5017797552836485,4.0,,,,,,
+124,,Decision Tree Regressor,,50,"[[74 81]
+ [59 86]]",0.5352614015572859,8.0,,,,,,
+125,,Decision Tree Regressor,,50,"[[ 53 102]
+ [ 32 113]]",0.5606229143492769,16.0,,,,,,
+126,,Decision Tree Regressor,,50,"[[ 66  89]
+ [ 38 107]]",0.5818687430478309,32.0,,,,,,
+127,,Decision Tree Regressor,,50,"[[ 57  98]
+ [ 41 104]]",0.5424916573971079,64.0,,,,,,
+128,,Decision Tree Regressor,,50,"[[104  51]
+ [101  44]]",0.48720800889877636,128.0,,,,,,
+129,,Decision Tree Regressor,,50,"[[104  51]
+ [102  43]]",0.4837597330367074,256.0,,,,,,
+130,,K Neighbors,,5,"[[92 63]
+ [86 59]]",0.500222469410456,,1.0,euclidean,uniform,,,
+131,,K Neighbors,,5,"[[88 67]
+ [85 60]]",0.49076751946607344,,1.0,manhattan,uniform,,,
+132,,K Neighbors,,5,"[[92 63]
+ [86 59]]",0.500222469410456,,1.0,minkowski,uniform,,,
+133,,K Neighbors,,5,"[[92 63]
+ [86 59]]",0.500222469410456,,1.0,euclidean,distance,,,
+134,,K Neighbors,,5,"[[88 67]
+ [85 60]]",0.49076751946607344,,1.0,manhattan,distance,,,
+135,,K Neighbors,,5,"[[92 63]
+ [86 59]]",0.500222469410456,,1.0,minkowski,distance,,,
+136,,K Neighbors,,5,"[[93 62]
+ [84 61]]",0.5103448275862069,,3.0,euclidean,uniform,,,
+137,,K Neighbors,,5,"[[91 64]
+ [86 59]]",0.49699666295884315,,3.0,manhattan,uniform,,,
+138,,K Neighbors,,5,"[[93 62]
+ [84 61]]",0.5103448275862069,,3.0,minkowski,uniform,,,
+139,,K Neighbors,,5,"[[91 64]
+ [85 60]]",0.5004449388209121,,3.0,euclidean,distance,,,
+140,,K Neighbors,,5,"[[88 67]
+ [86 59]]",0.4873192436040044,,3.0,manhattan,distance,,,
+141,,K Neighbors,,5,"[[91 64]
+ [85 60]]",0.5004449388209121,,3.0,minkowski,distance,,,
+142,,K Neighbors,,5,"[[92 63]
+ [88 57]]",0.4933259176863181,,5.0,euclidean,uniform,,,
+143,,K Neighbors,,5,"[[88 67]
+ [83 62]]",0.49766407119021133,,5.0,manhattan,uniform,,,
+144,,K Neighbors,,5,"[[92 63]
+ [88 57]]",0.4933259176863181,,5.0,minkowski,uniform,,,
+145,,K Neighbors,,5,"[[90 65]
+ [86 59]]",0.4937708565072302,,5.0,euclidean,distance,,,
+146,,K Neighbors,,5,"[[85 70]
+ [86 59]]",0.4776418242491657,,5.0,manhattan,distance,,,
+147,,K Neighbors,,5,"[[90 65]
+ [86 59]]",0.4937708565072302,,5.0,minkowski,distance,,,
+148,,K Neighbors,,5,"[[94 61]
+ [83 62]]",0.5170189098998887,,7.0,euclidean,uniform,,,
+149,,K Neighbors,,5,"[[95 60]
+ [86 59]]",0.5098998887652948,,7.0,manhattan,uniform,,,
+150,,K Neighbors,,5,"[[94 61]
+ [83 62]]",0.5170189098998887,,7.0,minkowski,uniform,,,
+151,,K Neighbors,,5,"[[93 62]
+ [87 58]]",0.5,,7.0,euclidean,distance,,,
+152,,K Neighbors,,5,"[[90 65]
+ [85 60]]",0.49721913236929915,,7.0,manhattan,distance,,,
+153,,K Neighbors,,5,"[[93 62]
+ [87 58]]",0.5,,7.0,minkowski,distance,,,
+154,,K Neighbors,,5,"[[92 63]
+ [82 63]]",0.5140155728587319,,9.0,euclidean,uniform,,,
+155,,K Neighbors,,5,"[[95 60]
+ [88 57]]",0.5030033370411569,,9.0,manhattan,uniform,,,
+156,,K Neighbors,,5,"[[92 63]
+ [82 63]]",0.5140155728587319,,9.0,minkowski,uniform,,,
+157,,K Neighbors,,5,"[[92 63]
+ [82 63]]",0.5140155728587319,,9.0,euclidean,distance,,,
+158,,K Neighbors,,5,"[[91 64]
+ [85 60]]",0.5004449388209121,,9.0,manhattan,distance,,,
+159,,K Neighbors,,5,"[[92 63]
+ [82 63]]",0.5140155728587319,,9.0,minkowski,distance,,,
+160,,K Neighbors,,5,"[[94 61]
+ [89 56]]",0.4963292547274749,,11.0,euclidean,uniform,,,
+161,,K Neighbors,,5,"[[98 57]
+ [91 54]]",0.5023359288097887,,11.0,manhattan,uniform,,,
+162,,K Neighbors,,5,"[[94 61]
+ [89 56]]",0.4963292547274749,,11.0,minkowski,uniform,,,
+163,,K Neighbors,,5,"[[92 63]
+ [85 60]]",0.503670745272525,,11.0,euclidean,distance,,,
+164,,K Neighbors,,5,"[[94 61]
+ [87 58]]",0.5032258064516129,,11.0,manhattan,distance,,,
+165,,K Neighbors,,5,"[[92 63]
+ [85 60]]",0.503670745272525,,11.0,minkowski,distance,,,
+166,,K Neighbors,,5,"[[99 56]
+ [89 56]]",0.5124582869855394,,13.0,euclidean,uniform,,,
+167,,K Neighbors,,5,"[[98 57]
+ [94 51]]",0.4919911012235818,,13.0,manhattan,uniform,,,
+168,,K Neighbors,,5,"[[99 56]
+ [89 56]]",0.5124582869855394,,13.0,minkowski,uniform,,,
+169,,K Neighbors,,5,"[[97 58]
+ [85 60]]",0.5197997775305895,,13.0,euclidean,distance,,,
+170,,K Neighbors,,5,"[[96 59]
+ [89 56]]",0.5027808676307007,,13.0,manhattan,distance,,,
+171,,K Neighbors,,5,"[[97 58]
+ [85 60]]",0.5197997775305895,,13.0,minkowski,distance,,,
+172,,K Neighbors,,5,"[[97 58]
+ [89 56]]",0.5060066740823136,,15.0,euclidean,uniform,,,
+173,,K Neighbors,,5,"[[100  55]
+ [ 97  48]]",0.4880978865406007,,15.0,manhattan,uniform,,,
+174,,K Neighbors,,5,"[[97 58]
+ [89 56]]",0.5060066740823136,,15.0,minkowski,uniform,,,
+175,,K Neighbors,,5,"[[98 57]
+ [86 59]]",0.5195773081201335,,15.0,euclidean,distance,,,
+176,,K Neighbors,,5,"[[97 58]
+ [88 57]]",0.5094549499443826,,15.0,manhattan,distance,,,
+177,,K Neighbors,,5,"[[98 57]
+ [86 59]]",0.5195773081201335,,15.0,minkowski,distance,,,
+178,,K Neighbors,,5,"[[97 58]
+ [89 56]]",0.5060066740823136,,17.0,euclidean,uniform,,,
+179,,K Neighbors,,5,"[[102  53]
+ [ 97  48]]",0.4945494994438265,,17.0,manhattan,uniform,,,
+180,,K Neighbors,,5,"[[97 58]
+ [89 56]]",0.5060066740823136,,17.0,minkowski,uniform,,,
+181,,K Neighbors,,5,"[[95 60]
+ [85 60]]",0.5133481646273638,,17.0,euclidean,distance,,,
+182,,K Neighbors,,5,"[[99 56]
+ [88 57]]",0.5159065628476085,,17.0,manhattan,distance,,,
+183,,K Neighbors,,5,"[[95 60]
+ [85 60]]",0.5133481646273638,,17.0,minkowski,distance,,,
+184,,K Neighbors,,5,"[[109  46]
+ [ 88  57]]",0.5481646273637375,,19.0,euclidean,uniform,,,
+185,,K Neighbors,,5,"[[109  46]
+ [ 95  50]]",0.5240266963292547,,19.0,manhattan,uniform,,,
+186,,K Neighbors,,5,"[[109  46]
+ [ 88  57]]",0.5481646273637375,,19.0,minkowski,uniform,,,
+187,,K Neighbors,,5,"[[95 60]
+ [86 59]]",0.5098998887652948,,19.0,euclidean,distance,,,
+188,,K Neighbors,,5,"[[98 57]
+ [90 55]]",0.5057842046718577,,19.0,manhattan,distance,,,
+189,,K Neighbors,,5,"[[95 60]
+ [86 59]]",0.5098998887652948,,19.0,minkowski,distance,,,
+190,,K Neighbors,,10,"[[88 67]
+ [90 55]]",0.4735261401557286,,1.0,euclidean,uniform,,,
+191,,K Neighbors,,10,"[[89 66]
+ [87 58]]",0.48709677419354835,,1.0,manhattan,uniform,,,
+192,,K Neighbors,,10,"[[88 67]
+ [90 55]]",0.4735261401557286,,1.0,minkowski,uniform,,,
+193,,K Neighbors,,10,"[[88 67]
+ [90 55]]",0.4735261401557286,,1.0,euclidean,distance,,,
+194,,K Neighbors,,10,"[[89 66]
+ [87 58]]",0.48709677419354835,,1.0,manhattan,distance,,,
+195,,K Neighbors,,10,"[[88 67]
+ [90 55]]",0.4735261401557286,,1.0,minkowski,distance,,,
+196,,K Neighbors,,10,"[[94 61]
+ [85 60]]",0.5101223581757508,,3.0,euclidean,uniform,,,
+197,,K Neighbors,,10,"[[91 64]
+ [80 65]]",0.517686318131257,,3.0,manhattan,uniform,,,
+198,,K Neighbors,,10,"[[94 61]
+ [85 60]]",0.5101223581757508,,3.0,minkowski,uniform,,,
+199,,K Neighbors,,10,"[[94 61]
+ [88 57]]",0.499777530589544,,3.0,euclidean,distance,,,
+200,,K Neighbors,,10,"[[93 62]
+ [79 66]]",0.5275862068965518,,3.0,manhattan,distance,,,
+201,,K Neighbors,,10,"[[94 61]
+ [88 57]]",0.499777530589544,,3.0,minkowski,distance,,,
+202,,K Neighbors,,10,"[[89 66]
+ [84 61]]",0.4974416017797553,,5.0,euclidean,uniform,,,
+203,,K Neighbors,,10,"[[92 63]
+ [74 71]]",0.5416017797552836,,5.0,manhattan,uniform,,,
+204,,K Neighbors,,10,"[[89 66]
+ [84 61]]",0.4974416017797553,,5.0,minkowski,uniform,,,
+205,,K Neighbors,,10,"[[90 65]
+ [81 64]]",0.511012235817575,,5.0,euclidean,distance,,,
+206,,K Neighbors,,10,"[[93 62]
+ [72 73]]",0.5517241379310345,,5.0,manhattan,distance,,,
+207,,K Neighbors,,10,"[[90 65]
+ [81 64]]",0.511012235817575,,5.0,minkowski,distance,,,
+208,,K Neighbors,,10,"[[91 64]
+ [81 64]]",0.514238042269188,,7.0,euclidean,uniform,,,
+209,,K Neighbors,,10,"[[94 61]
+ [80 65]]",0.5273637374860957,,7.0,manhattan,uniform,,,
+210,,K Neighbors,,10,"[[91 64]
+ [81 64]]",0.514238042269188,,7.0,minkowski,uniform,,,
+211,,K Neighbors,,10,"[[92 63]
+ [82 63]]",0.5140155728587319,,7.0,euclidean,distance,,,
+212,,K Neighbors,,10,"[[98 57]
+ [81 64]]",0.5368186874304783,,7.0,manhattan,distance,,,
+213,,K Neighbors,,10,"[[92 63]
+ [82 63]]",0.5140155728587319,,7.0,minkowski,distance,,,
+214,,K Neighbors,,10,"[[96 59]
+ [84 61]]",0.5200222469410456,,9.0,euclidean,uniform,,,
+215,,K Neighbors,,10,"[[100  55]
+ [ 79  66]]",0.550166852057842,,9.0,manhattan,uniform,,,
+216,,K Neighbors,,10,"[[96 59]
+ [84 61]]",0.5200222469410456,,9.0,minkowski,uniform,,,
+217,,K Neighbors,,10,"[[95 60]
+ [81 64]]",0.5271412680756397,,9.0,euclidean,distance,,,
+218,,K Neighbors,,10,"[[101  54]
+ [ 77  68]]",0.5602892102335929,,9.0,manhattan,distance,,,
+219,,K Neighbors,,10,"[[95 60]
+ [81 64]]",0.5271412680756397,,9.0,minkowski,distance,,,
+220,,K Neighbors,,10,"[[106  49]
+ [ 89  56]]",0.5350389321468297,,11.0,euclidean,uniform,,,
+221,,K Neighbors,,10,"[[102  53]
+ [ 84  61]]",0.5393770856507231,,11.0,manhattan,uniform,,,
+222,,K Neighbors,,10,"[[106  49]
+ [ 89  56]]",0.5350389321468297,,11.0,minkowski,uniform,,,
+223,,K Neighbors,,10,"[[100  55]
+ [ 81  64]]",0.543270300333704,,11.0,euclidean,distance,,,
+224,,K Neighbors,,10,"[[104  51]
+ [ 85  60]]",0.5423804226918798,,11.0,manhattan,distance,,,
+225,,K Neighbors,,10,"[[100  55]
+ [ 81  64]]",0.543270300333704,,11.0,minkowski,distance,,,
+226,,K Neighbors,,10,"[[104  51]
+ [ 88  57]]",0.532035595105673,,13.0,euclidean,uniform,,,
+227,,K Neighbors,,10,"[[104  51]
+ [ 86  59]]",0.5389321468298108,,13.0,manhattan,uniform,,,
+228,,K Neighbors,,10,"[[104  51]
+ [ 88  57]]",0.532035595105673,,13.0,minkowski,uniform,,,
+229,,K Neighbors,,10,"[[98 57]
+ [82 63]]",0.5333704115684094,,13.0,euclidean,distance,,,
+230,,K Neighbors,,10,"[[107  48]
+ [ 85  60]]",0.5520578420467186,,13.0,manhattan,distance,,,
+231,,K Neighbors,,10,"[[98 57]
+ [82 63]]",0.5333704115684094,,13.0,minkowski,distance,,,
+232,,K Neighbors,,10,"[[107  48]
+ [ 89  56]]",0.5382647385984427,,15.0,euclidean,uniform,,,
+233,,K Neighbors,,10,"[[99 56]
+ [86 59]]",0.5228031145717463,,15.0,manhattan,uniform,,,
+234,,K Neighbors,,10,"[[107  48]
+ [ 89  56]]",0.5382647385984427,,15.0,minkowski,uniform,,,
+235,,K Neighbors,,10,"[[103  52]
+ [ 79  66]]",0.5598442714126808,,15.0,euclidean,distance,,,
+236,,K Neighbors,,10,"[[104  51]
+ [ 84  61]]",0.5458286985539488,,15.0,manhattan,distance,,,
+237,,K Neighbors,,10,"[[103  52]
+ [ 79  66]]",0.5598442714126808,,15.0,minkowski,distance,,,
+238,,K Neighbors,,10,"[[99 56]
+ [88 57]]",0.5159065628476085,,17.0,euclidean,uniform,,,
+239,,K Neighbors,,10,"[[93 62]
+ [75 70]]",0.5413793103448276,,17.0,manhattan,uniform,,,
+240,,K Neighbors,,10,"[[99 56]
+ [88 57]]",0.5159065628476085,,17.0,minkowski,uniform,,,
+241,,K Neighbors,,10,"[[100  55]
+ [ 79  66]]",0.550166852057842,,17.0,euclidean,distance,,,
+242,,K Neighbors,,10,"[[100  55]
+ [ 80  65]]",0.5467185761957731,,17.0,manhattan,distance,,,
+243,,K Neighbors,,10,"[[100  55]
+ [ 79  66]]",0.550166852057842,,17.0,minkowski,distance,,,
+244,,K Neighbors,,10,"[[87 68]
+ [73 72]]",0.5289210233592881,,19.0,euclidean,uniform,,,
+245,,K Neighbors,,10,"[[84 71]
+ [76 69]]",0.5088987764182425,,19.0,manhattan,uniform,,,
+246,,K Neighbors,,10,"[[87 68]
+ [73 72]]",0.5289210233592881,,19.0,minkowski,uniform,,,
+247,,K Neighbors,,10,"[[96 59]
+ [78 67]]",0.5407119021134594,,19.0,euclidean,distance,,,
+248,,K Neighbors,,10,"[[91 64]
+ [77 68]]",0.5280311457174639,,19.0,manhattan,distance,,,
+249,,K Neighbors,,10,"[[96 59]
+ [78 67]]",0.5407119021134594,,19.0,minkowski,distance,,,
+250,,K Neighbors,,15,"[[88 67]
+ [90 55]]",0.4735261401557286,,1.0,euclidean,uniform,,,
+251,,K Neighbors,,15,"[[89 66]
+ [88 57]]",0.4836484983314795,,1.0,manhattan,uniform,,,
+252,,K Neighbors,,15,"[[88 67]
+ [90 55]]",0.4735261401557286,,1.0,minkowski,uniform,,,
+253,,K Neighbors,,15,"[[88 67]
+ [90 55]]",0.4735261401557286,,1.0,euclidean,distance,,,
+254,,K Neighbors,,15,"[[89 66]
+ [88 57]]",0.4836484983314795,,1.0,manhattan,distance,,,
+255,,K Neighbors,,15,"[[88 67]
+ [90 55]]",0.4735261401557286,,1.0,minkowski,distance,,,
+256,,K Neighbors,,15,"[[94 61]
+ [86 59]]",0.5066740823136818,,3.0,euclidean,uniform,,,
+257,,K Neighbors,,15,"[[91 64]
+ [80 65]]",0.517686318131257,,3.0,manhattan,uniform,,,
+258,,K Neighbors,,15,"[[94 61]
+ [86 59]]",0.5066740823136818,,3.0,minkowski,uniform,,,
+259,,K Neighbors,,15,"[[94 61]
+ [88 57]]",0.499777530589544,,3.0,euclidean,distance,,,
+260,,K Neighbors,,15,"[[93 62]
+ [79 66]]",0.5275862068965518,,3.0,manhattan,distance,,,
+261,,K Neighbors,,15,"[[94 61]
+ [88 57]]",0.499777530589544,,3.0,minkowski,distance,,,
+262,,K Neighbors,,15,"[[89 66]
+ [85 60]]",0.4939933259176863,,5.0,euclidean,uniform,,,
+263,,K Neighbors,,15,"[[90 65]
+ [74 71]]",0.5351501668520577,,5.0,manhattan,uniform,,,
+264,,K Neighbors,,15,"[[89 66]
+ [85 60]]",0.4939933259176863,,5.0,minkowski,uniform,,,
+265,,K Neighbors,,15,"[[90 65]
+ [82 63]]",0.5075639599555061,,5.0,euclidean,distance,,,
+266,,K Neighbors,,15,"[[91 64]
+ [72 73]]",0.5452725250278087,,5.0,manhattan,distance,,,
+267,,K Neighbors,,15,"[[90 65]
+ [82 63]]",0.5075639599555061,,5.0,minkowski,distance,,,
+268,,K Neighbors,,15,"[[91 64]
+ [81 64]]",0.514238042269188,,7.0,euclidean,uniform,,,
+269,,K Neighbors,,15,"[[93 62]
+ [80 65]]",0.5241379310344827,,7.0,manhattan,uniform,,,
+270,,K Neighbors,,15,"[[91 64]
+ [81 64]]",0.514238042269188,,7.0,minkowski,uniform,,,
+271,,K Neighbors,,15,"[[92 63]
+ [82 63]]",0.5140155728587319,,7.0,euclidean,distance,,,
+272,,K Neighbors,,15,"[[98 57]
+ [80 65]]",0.5402669632925473,,7.0,manhattan,distance,,,
+273,,K Neighbors,,15,"[[92 63]
+ [82 63]]",0.5140155728587319,,7.0,minkowski,distance,,,
+274,,K Neighbors,,15,"[[96 59]
+ [84 61]]",0.5200222469410456,,9.0,euclidean,uniform,,,
+275,,K Neighbors,,15,"[[99 56]
+ [79 66]]",0.5469410456062291,,9.0,manhattan,uniform,,,
+276,,K Neighbors,,15,"[[96 59]
+ [84 61]]",0.5200222469410456,,9.0,minkowski,uniform,,,
+277,,K Neighbors,,15,"[[95 60]
+ [81 64]]",0.5271412680756397,,9.0,euclidean,distance,,,
+278,,K Neighbors,,15,"[[101  54]
+ [ 78  67]]",0.5568409343715239,,9.0,manhattan,distance,,,
+279,,K Neighbors,,15,"[[95 60]
+ [81 64]]",0.5271412680756397,,9.0,minkowski,distance,,,
+280,,K Neighbors,,15,"[[106  49]
+ [ 89  56]]",0.5350389321468297,,11.0,euclidean,uniform,,,
+281,,K Neighbors,,15,"[[102  53]
+ [ 83  62]]",0.542825361512792,,11.0,manhattan,uniform,,,
+282,,K Neighbors,,15,"[[106  49]
+ [ 89  56]]",0.5350389321468297,,11.0,minkowski,uniform,,,
+283,,K Neighbors,,15,"[[100  55]
+ [ 81  64]]",0.543270300333704,,11.0,euclidean,distance,,,
+284,,K Neighbors,,15,"[[105  50]
+ [ 83  62]]",0.5525027808676307,,11.0,manhattan,distance,,,
+285,,K Neighbors,,15,"[[100  55]
+ [ 81  64]]",0.543270300333704,,11.0,minkowski,distance,,,
+286,,K Neighbors,,15,"[[104  51]
+ [ 88  57]]",0.532035595105673,,13.0,euclidean,uniform,,,
+287,,K Neighbors,,15,"[[105  50]
+ [ 86  59]]",0.5421579532814238,,13.0,manhattan,uniform,,,
+288,,K Neighbors,,15,"[[104  51]
+ [ 88  57]]",0.532035595105673,,13.0,minkowski,uniform,,,
+289,,K Neighbors,,15,"[[98 57]
+ [82 63]]",0.5333704115684094,,13.0,euclidean,distance,,,
+290,,K Neighbors,,15,"[[108  47]
+ [ 84  61]]",0.5587319243604004,,13.0,manhattan,distance,,,
+291,,K Neighbors,,15,"[[98 57]
+ [82 63]]",0.5333704115684094,,13.0,minkowski,distance,,,
+292,,K Neighbors,,15,"[[107  48]
+ [ 89  56]]",0.5382647385984427,,15.0,euclidean,uniform,,,
+293,,K Neighbors,,15,"[[99 56]
+ [87 58]]",0.5193548387096774,,15.0,manhattan,uniform,,,
+294,,K Neighbors,,15,"[[107  48]
+ [ 89  56]]",0.5382647385984427,,15.0,minkowski,uniform,,,
+295,,K Neighbors,,15,"[[103  52]
+ [ 79  66]]",0.5598442714126808,,15.0,euclidean,distance,,,
+296,,K Neighbors,,15,"[[104  51]
+ [ 85  60]]",0.5423804226918798,,15.0,manhattan,distance,,,
+297,,K Neighbors,,15,"[[103  52]
+ [ 79  66]]",0.5598442714126808,,15.0,minkowski,distance,,,
+298,,K Neighbors,,15,"[[99 56]
+ [88 57]]",0.5159065628476085,,17.0,euclidean,uniform,,,
+299,,K Neighbors,,15,"[[91 64]
+ [77 68]]",0.5280311457174639,,17.0,manhattan,uniform,,,
+300,,K Neighbors,,15,"[[99 56]
+ [88 57]]",0.5159065628476085,,17.0,minkowski,uniform,,,
+301,,K Neighbors,,15,"[[100  55]
+ [ 79  66]]",0.550166852057842,,17.0,euclidean,distance,,,
+302,,K Neighbors,,15,"[[98 57]
+ [80 65]]",0.5402669632925473,,17.0,manhattan,distance,,,
+303,,K Neighbors,,15,"[[100  55]
+ [ 79  66]]",0.550166852057842,,17.0,minkowski,distance,,,
+304,,K Neighbors,,15,"[[87 68]
+ [73 72]]",0.5289210233592881,,19.0,euclidean,uniform,,,
+305,,K Neighbors,,15,"[[85 70]
+ [76 69]]",0.5121245828698554,,19.0,manhattan,uniform,,,
+306,,K Neighbors,,15,"[[87 68]
+ [73 72]]",0.5289210233592881,,19.0,minkowski,uniform,,,
+307,,K Neighbors,,15,"[[96 59]
+ [78 67]]",0.5407119021134594,,19.0,euclidean,distance,,,
+308,,K Neighbors,,15,"[[90 65]
+ [77 68]]",0.5248053392658509,,19.0,manhattan,distance,,,
+309,,K Neighbors,,15,"[[96 59]
+ [78 67]]",0.5407119021134594,,19.0,minkowski,distance,,,
+310,,K Neighbors,,20,"[[83 72]
+ [88 57]]",0.46429365962180197,,1.0,euclidean,uniform,,,
+311,,K Neighbors,,20,"[[80 75]
+ [83 62]]",0.4718576195773081,,1.0,manhattan,uniform,,,
+312,,K Neighbors,,20,"[[83 72]
+ [88 57]]",0.46429365962180197,,1.0,minkowski,uniform,,,
+313,,K Neighbors,,20,"[[83 72]
+ [88 57]]",0.46429365962180197,,1.0,euclidean,distance,,,
+314,,K Neighbors,,20,"[[80 75]
+ [83 62]]",0.4718576195773081,,1.0,manhattan,distance,,,
+315,,K Neighbors,,20,"[[83 72]
+ [88 57]]",0.46429365962180197,,1.0,minkowski,distance,,,
+316,,K Neighbors,,20,"[[86 69]
+ [79 66]]",0.5050055617352615,,3.0,euclidean,uniform,,,
+317,,K Neighbors,,20,"[[82 73]
+ [80 65]]",0.48865406006674084,,3.0,manhattan,uniform,,,
+318,,K Neighbors,,20,"[[86 69]
+ [79 66]]",0.5050055617352615,,3.0,minkowski,uniform,,,
+319,,K Neighbors,,20,"[[89 66]
+ [81 64]]",0.5077864293659622,,3.0,euclidean,distance,,,
+320,,K Neighbors,,20,"[[81 74]
+ [82 63]]",0.47853170189099,,3.0,manhattan,distance,,,
+321,,K Neighbors,,20,"[[89 66]
+ [81 64]]",0.5077864293659622,,3.0,minkowski,distance,,,
+322,,K Neighbors,,20,"[[92 63]
+ [77 68]]",0.5312569521690768,,5.0,euclidean,uniform,,,
+323,,K Neighbors,,20,"[[91 64]
+ [76 69]]",0.5314794215795329,,5.0,manhattan,uniform,,,
+324,,K Neighbors,,20,"[[92 63]
+ [77 68]]",0.5312569521690768,,5.0,minkowski,uniform,,,
+325,,K Neighbors,,20,"[[89 66]
+ [78 67]]",0.5181312569521691,,5.0,euclidean,distance,,,
+326,,K Neighbors,,20,"[[88 67]
+ [78 67]]",0.5149054505005562,,5.0,manhattan,distance,,,
+327,,K Neighbors,,20,"[[89 66]
+ [78 67]]",0.5181312569521691,,5.0,minkowski,distance,,,
+328,,K Neighbors,,20,"[[98 57]
+ [77 68]]",0.5506117908787542,,7.0,euclidean,uniform,,,
+329,,K Neighbors,,20,"[[101  54]
+ [ 81  64]]",0.546496106785317,,7.0,manhattan,uniform,,,
+330,,K Neighbors,,20,"[[98 57]
+ [77 68]]",0.5506117908787542,,7.0,minkowski,uniform,,,
+331,,K Neighbors,,20,"[[95 60]
+ [76 69]]",0.5443826473859845,,7.0,euclidean,distance,,,
+332,,K Neighbors,,20,"[[98 57]
+ [82 63]]",0.5333704115684094,,7.0,manhattan,distance,,,
+333,,K Neighbors,,20,"[[95 60]
+ [76 69]]",0.5443826473859845,,7.0,minkowski,distance,,,
+334,,K Neighbors,,20,"[[90 65]
+ [74 71]]",0.5351501668520577,,9.0,euclidean,uniform,,,
+335,,K Neighbors,,20,"[[94 61]
+ [74 71]]",0.5480533926585094,,9.0,manhattan,uniform,,,
+336,,K Neighbors,,20,"[[90 65]
+ [74 71]]",0.5351501668520577,,9.0,minkowski,uniform,,,
+337,,K Neighbors,,20,"[[90 65]
+ [74 71]]",0.5351501668520577,,9.0,euclidean,distance,,,
+338,,K Neighbors,,20,"[[93 62]
+ [77 68]]",0.5344827586206897,,9.0,manhattan,distance,,,
+339,,K Neighbors,,20,"[[90 65]
+ [74 71]]",0.5351501668520577,,9.0,minkowski,distance,,,
+340,,K Neighbors,,20,"[[79 76]
+ [64 81]]",0.5341490545050056,,11.0,euclidean,uniform,,,
+341,,K Neighbors,,20,"[[86 69]
+ [72 73]]",0.5291434927697442,,11.0,manhattan,uniform,,,
+342,,K Neighbors,,20,"[[79 76]
+ [64 81]]",0.5341490545050056,,11.0,minkowski,uniform,,,
+343,,K Neighbors,,20,"[[85 70]
+ [71 74]]",0.5293659621802003,,11.0,euclidean,distance,,,
+344,,K Neighbors,,20,"[[90 65]
+ [77 68]]",0.5248053392658509,,11.0,manhattan,distance,,,
+345,,K Neighbors,,20,"[[85 70]
+ [71 74]]",0.5293659621802003,,11.0,minkowski,distance,,,
+346,,K Neighbors,,20,"[[80 75]
+ [63 82]]",0.5408231368186874,,13.0,euclidean,uniform,,,
+347,,K Neighbors,,20,"[[82 73]
+ [68 77]]",0.5300333704115684,,13.0,manhattan,uniform,,,
+348,,K Neighbors,,20,"[[80 75]
+ [63 82]]",0.5408231368186874,,13.0,minkowski,uniform,,,
+349,,K Neighbors,,20,"[[81 74]
+ [70 75]]",0.5199110122358176,,13.0,euclidean,distance,,,
+350,,K Neighbors,,20,"[[91 64]
+ [74 71]]",0.5383759733036708,,13.0,manhattan,distance,,,
+351,,K Neighbors,,20,"[[81 74]
+ [70 75]]",0.5199110122358176,,13.0,minkowski,distance,,,
+352,,K Neighbors,,20,"[[76 79]
+ [65 80]]",0.521023359288098,,15.0,euclidean,uniform,,,
+353,,K Neighbors,,20,"[[79 76]
+ [66 79]]",0.5272525027808677,,15.0,manhattan,uniform,,,
+354,,K Neighbors,,20,"[[76 79]
+ [65 80]]",0.521023359288098,,15.0,minkowski,uniform,,,
+355,,K Neighbors,,20,"[[79 76]
+ [70 75]]",0.5134593993325918,,15.0,euclidean,distance,,,
+356,,K Neighbors,,20,"[[87 68]
+ [75 70]]",0.5220244716351502,,15.0,manhattan,distance,,,
+357,,K Neighbors,,20,"[[79 76]
+ [70 75]]",0.5134593993325918,,15.0,minkowski,distance,,,
+358,,K Neighbors,,20,"[[77 78]
+ [67 78]]",0.5173526140155729,,17.0,euclidean,uniform,,,
+359,,K Neighbors,,20,"[[78 77]
+ [63 82]]",0.5343715239154616,,17.0,manhattan,uniform,,,
+360,,K Neighbors,,20,"[[77 78]
+ [67 78]]",0.5173526140155729,,17.0,minkowski,uniform,,,
+361,,K Neighbors,,20,"[[80 75]
+ [70 75]]",0.5166852057842046,,17.0,euclidean,distance,,,
+362,,K Neighbors,,20,"[[85 70]
+ [71 74]]",0.5293659621802003,,17.0,manhattan,distance,,,
+363,,K Neighbors,,20,"[[80 75]
+ [70 75]]",0.5166852057842046,,17.0,minkowski,distance,,,
+364,,K Neighbors,,20,"[[74 81]
+ [66 79]]",0.5111234705228032,,19.0,euclidean,uniform,,,
+365,,K Neighbors,,20,"[[82 73]
+ [69 76]]",0.5265850945494995,,19.0,manhattan,uniform,,,
+366,,K Neighbors,,20,"[[74 81]
+ [66 79]]",0.5111234705228032,,19.0,minkowski,uniform,,,
+367,,K Neighbors,,20,"[[77 78]
+ [72 73]]",0.500111234705228,,19.0,euclidean,distance,,,
+368,,K Neighbors,,20,"[[88 67]
+ [69 76]]",0.5459399332591769,,19.0,manhattan,distance,,,
+369,,K Neighbors,,20,"[[77 78]
+ [72 73]]",0.500111234705228,,19.0,minkowski,distance,,,
+370,,K Neighbors,,25,"[[69 86]
+ [66 79]]",0.4949944382647386,,1.0,euclidean,uniform,,,
+371,,K Neighbors,,25,"[[73 82]
+ [67 78]]",0.5044493882091212,,1.0,manhattan,uniform,,,
+372,,K Neighbors,,25,"[[69 86]
+ [66 79]]",0.4949944382647386,,1.0,minkowski,uniform,,,
+373,,K Neighbors,,25,"[[69 86]
+ [66 79]]",0.4949944382647386,,1.0,euclidean,distance,,,
+374,,K Neighbors,,25,"[[73 82]
+ [67 78]]",0.5044493882091212,,1.0,manhattan,distance,,,
+375,,K Neighbors,,25,"[[69 86]
+ [66 79]]",0.4949944382647386,,1.0,minkowski,distance,,,
+376,,K Neighbors,,25,"[[78 77]
+ [75 70]]",0.492992213570634,,3.0,euclidean,uniform,,,
+377,,K Neighbors,,25,"[[78 77]
+ [72 73]]",0.5033370411568409,,3.0,manhattan,uniform,,,
+378,,K Neighbors,,25,"[[78 77]
+ [75 70]]",0.492992213570634,,3.0,minkowski,uniform,,,
+379,,K Neighbors,,25,"[[78 77]
+ [73 72]]",0.499888765294772,,3.0,euclidean,distance,,,
+380,,K Neighbors,,25,"[[75 80]
+ [72 73]]",0.4936596218020022,,3.0,manhattan,distance,,,
+381,,K Neighbors,,25,"[[78 77]
+ [73 72]]",0.499888765294772,,3.0,minkowski,distance,,,
+382,,K Neighbors,,25,"[[74 81]
+ [75 70]]",0.48008898776418246,,5.0,euclidean,uniform,,,
+383,,K Neighbors,,25,"[[78 77]
+ [77 68]]",0.4860956618464961,,5.0,manhattan,uniform,,,
+384,,K Neighbors,,25,"[[74 81]
+ [75 70]]",0.48008898776418246,,5.0,minkowski,uniform,,,
+385,,K Neighbors,,25,"[[72 83]
+ [73 72]]",0.48053392658509453,,5.0,euclidean,distance,,,
+386,,K Neighbors,,25,"[[74 81]
+ [75 70]]",0.48008898776418246,,5.0,manhattan,distance,,,
+387,,K Neighbors,,25,"[[72 83]
+ [73 72]]",0.48053392658509453,,5.0,minkowski,distance,,,
+388,,K Neighbors,,25,"[[86 69]
+ [74 71]]",0.5222469410456062,,7.0,euclidean,uniform,,,
+389,,K Neighbors,,25,"[[88 67]
+ [79 66]]",0.5114571746384872,,7.0,manhattan,uniform,,,
+390,,K Neighbors,,25,"[[86 69]
+ [74 71]]",0.5222469410456062,,7.0,minkowski,uniform,,,
+391,,K Neighbors,,25,"[[84 71]
+ [71 74]]",0.5261401557285874,,7.0,euclidean,distance,,,
+392,,K Neighbors,,25,"[[85 70]
+ [74 71]]",0.5190211345939932,,7.0,manhattan,distance,,,
+393,,K Neighbors,,25,"[[84 71]
+ [71 74]]",0.5261401557285874,,7.0,minkowski,distance,,,
+394,,K Neighbors,,25,"[[93 62]
+ [79 66]]",0.5275862068965518,,9.0,euclidean,uniform,,,
+395,,K Neighbors,,25,"[[88 67]
+ [83 62]]",0.49766407119021133,,9.0,manhattan,uniform,,,
+396,,K Neighbors,,25,"[[93 62]
+ [79 66]]",0.5275862068965518,,9.0,minkowski,uniform,,,
+397,,K Neighbors,,25,"[[86 69]
+ [78 67]]",0.5084538375973303,,9.0,euclidean,distance,,,
+398,,K Neighbors,,25,"[[83 72]
+ [82 63]]",0.48498331479421575,,9.0,manhattan,distance,,,
+399,,K Neighbors,,25,"[[86 69]
+ [78 67]]",0.5084538375973303,,9.0,minkowski,distance,,,
+400,,K Neighbors,,25,"[[88 67]
+ [83 62]]",0.49766407119021133,,11.0,euclidean,uniform,,,
+401,,K Neighbors,,25,"[[89 66]
+ [81 64]]",0.5077864293659622,,11.0,manhattan,uniform,,,
+402,,K Neighbors,,25,"[[88 67]
+ [83 62]]",0.49766407119021133,,11.0,minkowski,uniform,,,
+403,,K Neighbors,,25,"[[87 68]
+ [79 66]]",0.5082313681868743,,11.0,euclidean,distance,,,
+404,,K Neighbors,,25,"[[89 66]
+ [78 67]]",0.5181312569521691,,11.0,manhattan,distance,,,
+405,,K Neighbors,,25,"[[87 68]
+ [79 66]]",0.5082313681868743,,11.0,minkowski,distance,,,
+406,,K Neighbors,,25,"[[82 73]
+ [79 66]]",0.4921023359288098,,13.0,euclidean,uniform,,,
+407,,K Neighbors,,25,"[[86 69]
+ [75 70]]",0.5187986651835372,,13.0,manhattan,uniform,,,
+408,,K Neighbors,,25,"[[82 73]
+ [79 66]]",0.4921023359288098,,13.0,minkowski,uniform,,,
+409,,K Neighbors,,25,"[[81 74]
+ [79 66]]",0.4888765294771969,,13.0,euclidean,distance,,,
+410,,K Neighbors,,25,"[[83 72]
+ [78 67]]",0.49877641824249164,,13.0,manhattan,distance,,,
+411,,K Neighbors,,25,"[[81 74]
+ [79 66]]",0.4888765294771969,,13.0,minkowski,distance,,,
+412,,K Neighbors,,25,"[[76 79]
+ [74 71]]",0.4899888765294772,,15.0,euclidean,uniform,,,
+413,,K Neighbors,,25,"[[81 74]
+ [77 68]]",0.49577308120133484,,15.0,manhattan,uniform,,,
+414,,K Neighbors,,25,"[[76 79]
+ [74 71]]",0.4899888765294772,,15.0,minkowski,uniform,,,
+415,,K Neighbors,,25,"[[78 77]
+ [74 71]]",0.49644048943270297,,15.0,euclidean,distance,,,
+416,,K Neighbors,,25,"[[80 75]
+ [77 68]]",0.49254727474972193,,15.0,manhattan,distance,,,
+417,,K Neighbors,,25,"[[78 77]
+ [74 71]]",0.49644048943270297,,15.0,minkowski,distance,,,
+418,,K Neighbors,,25,"[[73 82]
+ [70 75]]",0.4941045606229143,,17.0,euclidean,uniform,,,
+419,,K Neighbors,,25,"[[82 73]
+ [70 75]]",0.5231368186874304,,17.0,manhattan,uniform,,,
+420,,K Neighbors,,25,"[[73 82]
+ [70 75]]",0.4941045606229143,,17.0,minkowski,uniform,,,
+421,,K Neighbors,,25,"[[76 79]
+ [68 77]]",0.5106785317018909,,17.0,euclidean,distance,,,
+422,,K Neighbors,,25,"[[81 74]
+ [74 71]]",0.5061179087875417,,17.0,manhattan,distance,,,
+423,,K Neighbors,,25,"[[76 79]
+ [68 77]]",0.5106785317018909,,17.0,minkowski,distance,,,
+424,,K Neighbors,,25,"[[72 83]
+ [72 73]]",0.4839822024471635,,19.0,euclidean,uniform,,,
+425,,K Neighbors,,25,"[[72 83]
+ [67 78]]",0.5012235817575083,,19.0,manhattan,uniform,,,
+426,,K Neighbors,,25,"[[72 83]
+ [72 73]]",0.4839822024471635,,19.0,minkowski,uniform,,,
+427,,K Neighbors,,25,"[[75 80]
+ [73 72]]",0.4902113459399333,,19.0,euclidean,distance,,,
+428,,K Neighbors,,25,"[[76 79]
+ [71 74]]",0.5003337041156841,,19.0,manhattan,distance,,,
+429,,K Neighbors,,25,"[[75 80]
+ [73 72]]",0.4902113459399333,,19.0,minkowski,distance,,,
+430,,K Neighbors,,30,"[[72 83]
+ [64 81]]",0.5115684093437152,,1.0,euclidean,uniform,,,
+431,,K Neighbors,,30,"[[74 81]
+ [63 82]]",0.52146829810901,,1.0,manhattan,uniform,,,
+432,,K Neighbors,,30,"[[72 83]
+ [64 81]]",0.5115684093437152,,1.0,minkowski,uniform,,,
+433,,K Neighbors,,30,"[[72 83]
+ [64 81]]",0.5115684093437152,,1.0,euclidean,distance,,,
+434,,K Neighbors,,30,"[[74 81]
+ [63 82]]",0.52146829810901,,1.0,manhattan,distance,,,
+435,,K Neighbors,,30,"[[72 83]
+ [64 81]]",0.5115684093437152,,1.0,minkowski,distance,,,
+436,,K Neighbors,,30,"[[71 84]
+ [71 74]]",0.4842046718576196,,3.0,euclidean,uniform,,,
+437,,K Neighbors,,30,"[[76 79]
+ [71 74]]",0.5003337041156841,,3.0,manhattan,uniform,,,
+438,,K Neighbors,,30,"[[71 84]
+ [71 74]]",0.4842046718576196,,3.0,minkowski,uniform,,,
+439,,K Neighbors,,30,"[[73 82]
+ [71 74]]",0.49065628476084544,,3.0,euclidean,distance,,,
+440,,K Neighbors,,30,"[[77 78]
+ [71 74]]",0.5035595105672971,,3.0,manhattan,distance,,,
+441,,K Neighbors,,30,"[[73 82]
+ [71 74]]",0.49065628476084544,,3.0,minkowski,distance,,,
+442,,K Neighbors,,30,"[[78 77]
+ [76 69]]",0.4895439377085651,,5.0,euclidean,uniform,,,
+443,,K Neighbors,,30,"[[84 71]
+ [76 69]]",0.5088987764182425,,5.0,manhattan,uniform,,,
+444,,K Neighbors,,30,"[[78 77]
+ [76 69]]",0.4895439377085651,,5.0,minkowski,uniform,,,
+445,,K Neighbors,,30,"[[77 78]
+ [74 71]]",0.49321468298109006,,5.0,euclidean,distance,,,
+446,,K Neighbors,,30,"[[85 70]
+ [75 70]]",0.5155728587319244,,5.0,manhattan,distance,,,
+447,,K Neighbors,,30,"[[77 78]
+ [74 71]]",0.49321468298109006,,5.0,minkowski,distance,,,
+448,,K Neighbors,,30,"[[78 77]
+ [69 76]]",0.5136818687430479,,7.0,euclidean,uniform,,,
+449,,K Neighbors,,30,"[[82 73]
+ [68 77]]",0.5300333704115684,,7.0,manhattan,uniform,,,
+450,,K Neighbors,,30,"[[78 77]
+ [69 76]]",0.5136818687430479,,7.0,minkowski,uniform,,,
+451,,K Neighbors,,30,"[[78 77]
+ [66 79]]",0.5240266963292547,,7.0,euclidean,distance,,,
+452,,K Neighbors,,30,"[[84 71]
+ [69 76]]",0.5330367074527254,,7.0,manhattan,distance,,,
+453,,K Neighbors,,30,"[[78 77]
+ [66 79]]",0.5240266963292547,,7.0,minkowski,distance,,,
+454,,K Neighbors,,30,"[[84 71]
+ [74 71]]",0.5157953281423804,,9.0,euclidean,uniform,,,
+455,,K Neighbors,,30,"[[80 75]
+ [78 67]]",0.48909899888765296,,9.0,manhattan,uniform,,,
+456,,K Neighbors,,30,"[[84 71]
+ [74 71]]",0.5157953281423804,,9.0,minkowski,uniform,,,
+457,,K Neighbors,,30,"[[81 74]
+ [70 75]]",0.5199110122358176,,9.0,euclidean,distance,,,
+458,,K Neighbors,,30,"[[82 73]
+ [73 72]]",0.5127919911012236,,9.0,manhattan,distance,,,
+459,,K Neighbors,,30,"[[81 74]
+ [70 75]]",0.5199110122358176,,9.0,minkowski,distance,,,
+460,,K Neighbors,,30,"[[76 79]
+ [74 71]]",0.4899888765294772,,11.0,euclidean,uniform,,,
+461,,K Neighbors,,30,"[[76 79]
+ [73 72]]",0.4934371523915462,,11.0,manhattan,uniform,,,
+462,,K Neighbors,,30,"[[76 79]
+ [74 71]]",0.4899888765294772,,11.0,minkowski,uniform,,,
+463,,K Neighbors,,30,"[[75 80]
+ [69 76]]",0.5040044493882092,,11.0,euclidean,distance,,,
+464,,K Neighbors,,30,"[[75 80]
+ [70 75]]",0.5005561735261401,,11.0,manhattan,distance,,,
+465,,K Neighbors,,30,"[[75 80]
+ [69 76]]",0.5040044493882092,,11.0,minkowski,distance,,,
+466,,K Neighbors,,30,"[[70 85]
+ [72 73]]",0.4775305895439377,,13.0,euclidean,uniform,,,
+467,,K Neighbors,,30,"[[72 83]
+ [71 74]]",0.4874304783092325,,13.0,manhattan,uniform,,,
+468,,K Neighbors,,30,"[[70 85]
+ [72 73]]",0.4775305895439377,,13.0,minkowski,uniform,,,
+469,,K Neighbors,,30,"[[68 87]
+ [68 77]]",0.48487208008898774,,13.0,euclidean,distance,,,
+470,,K Neighbors,,30,"[[71 84]
+ [69 76]]",0.4911012235817575,,13.0,manhattan,distance,,,
+471,,K Neighbors,,30,"[[68 87]
+ [68 77]]",0.48487208008898774,,13.0,minkowski,distance,,,
+472,,K Neighbors,,30,"[[67 88]
+ [65 80]]",0.49199110122358175,,15.0,euclidean,uniform,,,
+473,,K Neighbors,,30,"[[69 86]
+ [66 79]]",0.4949944382647386,,15.0,manhattan,uniform,,,
+474,,K Neighbors,,30,"[[67 88]
+ [65 80]]",0.49199110122358175,,15.0,minkowski,uniform,,,
+475,,K Neighbors,,30,"[[66 89]
+ [65 80]]",0.48876529477196884,,15.0,euclidean,distance,,,
+476,,K Neighbors,,30,"[[69 86]
+ [69 76]]",0.48464961067853174,,15.0,manhattan,distance,,,
+477,,K Neighbors,,30,"[[66 89]
+ [65 80]]",0.48876529477196884,,15.0,minkowski,distance,,,
+478,,K Neighbors,,30,"[[64 91]
+ [65 80]]",0.4823136818687431,,17.0,euclidean,uniform,,,
+479,,K Neighbors,,30,"[[68 87]
+ [62 83]]",0.5055617352614016,,17.0,manhattan,uniform,,,
+480,,K Neighbors,,30,"[[64 91]
+ [65 80]]",0.4823136818687431,,17.0,minkowski,uniform,,,
+481,,K Neighbors,,30,"[[65 90]
+ [65 80]]",0.48553948832035587,,17.0,euclidean,distance,,,
+482,,K Neighbors,,30,"[[70 85]
+ [67 78]]",0.49477196885428254,,17.0,manhattan,distance,,,
+483,,K Neighbors,,30,"[[65 90]
+ [65 80]]",0.48553948832035587,,17.0,minkowski,distance,,,
+484,,K Neighbors,,30,"[[69 86]
+ [69 76]]",0.48464961067853174,,19.0,euclidean,uniform,,,
+485,,K Neighbors,,30,"[[66 89]
+ [68 77]]",0.4784204671857619,,19.0,manhattan,uniform,,,
+486,,K Neighbors,,30,"[[69 86]
+ [69 76]]",0.48464961067853174,,19.0,minkowski,uniform,,,
+487,,K Neighbors,,30,"[[68 87]
+ [69 76]]",0.48142380422691883,,19.0,euclidean,distance,,,
+488,,K Neighbors,,30,"[[68 87]
+ [68 77]]",0.48487208008898774,,19.0,manhattan,distance,,,
+489,,K Neighbors,,30,"[[68 87]
+ [69 76]]",0.48142380422691883,,19.0,minkowski,distance,,,
+490,,K Neighbors,,35,"[[72 83]
+ [63 82]]",0.5150166852057843,,1.0,euclidean,uniform,,,
+491,,K Neighbors,,35,"[[74 81]
+ [62 83]]",0.524916573971079,,1.0,manhattan,uniform,,,
+492,,K Neighbors,,35,"[[72 83]
+ [63 82]]",0.5150166852057843,,1.0,minkowski,uniform,,,
+493,,K Neighbors,,35,"[[72 83]
+ [63 82]]",0.5150166852057843,,1.0,euclidean,distance,,,
+494,,K Neighbors,,35,"[[74 81]
+ [62 83]]",0.524916573971079,,1.0,manhattan,distance,,,
+495,,K Neighbors,,35,"[[72 83]
+ [63 82]]",0.5150166852057843,,1.0,minkowski,distance,,,
+496,,K Neighbors,,35,"[[71 84]
+ [71 74]]",0.4842046718576196,,3.0,euclidean,uniform,,,
+497,,K Neighbors,,35,"[[76 79]
+ [71 74]]",0.5003337041156841,,3.0,manhattan,uniform,,,
+498,,K Neighbors,,35,"[[71 84]
+ [71 74]]",0.4842046718576196,,3.0,minkowski,uniform,,,
+499,,K Neighbors,,35,"[[73 82]
+ [71 74]]",0.49065628476084544,,3.0,euclidean,distance,,,
+500,,K Neighbors,,35,"[[77 78]
+ [71 74]]",0.5035595105672971,,3.0,manhattan,distance,,,
+501,,K Neighbors,,35,"[[73 82]
+ [71 74]]",0.49065628476084544,,3.0,minkowski,distance,,,
+502,,K Neighbors,,35,"[[78 77]
+ [76 69]]",0.4895439377085651,,5.0,euclidean,uniform,,,
+503,,K Neighbors,,35,"[[84 71]
+ [76 69]]",0.5088987764182425,,5.0,manhattan,uniform,,,
+504,,K Neighbors,,35,"[[78 77]
+ [76 69]]",0.4895439377085651,,5.0,minkowski,uniform,,,
+505,,K Neighbors,,35,"[[77 78]
+ [74 71]]",0.49321468298109006,,5.0,euclidean,distance,,,
+506,,K Neighbors,,35,"[[85 70]
+ [75 70]]",0.5155728587319244,,5.0,manhattan,distance,,,
+507,,K Neighbors,,35,"[[77 78]
+ [74 71]]",0.49321468298109006,,5.0,minkowski,distance,,,
+508,,K Neighbors,,35,"[[78 77]
+ [69 76]]",0.5136818687430479,,7.0,euclidean,uniform,,,
+509,,K Neighbors,,35,"[[82 73]
+ [68 77]]",0.5300333704115684,,7.0,manhattan,uniform,,,
+510,,K Neighbors,,35,"[[78 77]
+ [69 76]]",0.5136818687430479,,7.0,minkowski,uniform,,,
+511,,K Neighbors,,35,"[[78 77]
+ [66 79]]",0.5240266963292547,,7.0,euclidean,distance,,,
+512,,K Neighbors,,35,"[[84 71]
+ [69 76]]",0.5330367074527254,,7.0,manhattan,distance,,,
+513,,K Neighbors,,35,"[[78 77]
+ [66 79]]",0.5240266963292547,,7.0,minkowski,distance,,,
+514,,K Neighbors,,35,"[[84 71]
+ [74 71]]",0.5157953281423804,,9.0,euclidean,uniform,,,
+515,,K Neighbors,,35,"[[80 75]
+ [78 67]]",0.48909899888765296,,9.0,manhattan,uniform,,,
+516,,K Neighbors,,35,"[[84 71]
+ [74 71]]",0.5157953281423804,,9.0,minkowski,uniform,,,
+517,,K Neighbors,,35,"[[80 75]
+ [70 75]]",0.5166852057842046,,9.0,euclidean,distance,,,
+518,,K Neighbors,,35,"[[81 74]
+ [73 72]]",0.5095661846496107,,9.0,manhattan,distance,,,
+519,,K Neighbors,,35,"[[80 75]
+ [70 75]]",0.5166852057842046,,9.0,minkowski,distance,,,
+520,,K Neighbors,,35,"[[76 79]
+ [74 71]]",0.4899888765294772,,11.0,euclidean,uniform,,,
+521,,K Neighbors,,35,"[[76 79]
+ [73 72]]",0.4934371523915462,,11.0,manhattan,uniform,,,
+522,,K Neighbors,,35,"[[76 79]
+ [74 71]]",0.4899888765294772,,11.0,minkowski,uniform,,,
+523,,K Neighbors,,35,"[[74 81]
+ [69 76]]",0.5007786429365962,,11.0,euclidean,distance,,,
+524,,K Neighbors,,35,"[[74 81]
+ [70 75]]",0.49733036707452727,,11.0,manhattan,distance,,,
+525,,K Neighbors,,35,"[[74 81]
+ [69 76]]",0.5007786429365962,,11.0,minkowski,distance,,,
+526,,K Neighbors,,35,"[[70 85]
+ [72 73]]",0.4775305895439377,,13.0,euclidean,uniform,,,
+527,,K Neighbors,,35,"[[72 83]
+ [71 74]]",0.4874304783092325,,13.0,manhattan,uniform,,,
+528,,K Neighbors,,35,"[[70 85]
+ [72 73]]",0.4775305895439377,,13.0,minkowski,uniform,,,
+529,,K Neighbors,,35,"[[68 87]
+ [68 77]]",0.48487208008898774,,13.0,euclidean,distance,,,
+530,,K Neighbors,,35,"[[71 84]
+ [69 76]]",0.4911012235817575,,13.0,manhattan,distance,,,
+531,,K Neighbors,,35,"[[68 87]
+ [68 77]]",0.48487208008898774,,13.0,minkowski,distance,,,
+532,,K Neighbors,,35,"[[67 88]
+ [65 80]]",0.49199110122358175,,15.0,euclidean,uniform,,,
+533,,K Neighbors,,35,"[[69 86]
+ [66 79]]",0.4949944382647386,,15.0,manhattan,uniform,,,
+534,,K Neighbors,,35,"[[67 88]
+ [65 80]]",0.49199110122358175,,15.0,minkowski,uniform,,,
+535,,K Neighbors,,35,"[[65 90]
+ [65 80]]",0.48553948832035587,,15.0,euclidean,distance,,,
+536,,K Neighbors,,35,"[[69 86]
+ [69 76]]",0.48464961067853174,,15.0,manhattan,distance,,,
+537,,K Neighbors,,35,"[[65 90]
+ [65 80]]",0.48553948832035587,,15.0,minkowski,distance,,,
+538,,K Neighbors,,35,"[[64 91]
+ [65 80]]",0.4823136818687431,,17.0,euclidean,uniform,,,
+539,,K Neighbors,,35,"[[68 87]
+ [62 83]]",0.5055617352614016,,17.0,manhattan,uniform,,,
+540,,K Neighbors,,35,"[[64 91]
+ [65 80]]",0.4823136818687431,,17.0,minkowski,uniform,,,
+541,,K Neighbors,,35,"[[65 90]
+ [65 80]]",0.48553948832035587,,17.0,euclidean,distance,,,
+542,,K Neighbors,,35,"[[69 86]
+ [67 78]]",0.49154616240266963,,17.0,manhattan,distance,,,
+543,,K Neighbors,,35,"[[65 90]
+ [65 80]]",0.48553948832035587,,17.0,minkowski,distance,,,
+544,,K Neighbors,,35,"[[69 86]
+ [69 76]]",0.48464961067853174,,19.0,euclidean,uniform,,,
+545,,K Neighbors,,35,"[[66 89]
+ [68 77]]",0.4784204671857619,,19.0,manhattan,uniform,,,
+546,,K Neighbors,,35,"[[69 86]
+ [69 76]]",0.48464961067853174,,19.0,minkowski,uniform,,,
+547,,K Neighbors,,35,"[[68 87]
+ [70 75]]",0.4779755283648498,,19.0,euclidean,distance,,,
+548,,K Neighbors,,35,"[[68 87]
+ [68 77]]",0.48487208008898774,,19.0,manhattan,distance,,,
+549,,K Neighbors,,35,"[[68 87]
+ [70 75]]",0.4779755283648498,,19.0,minkowski,distance,,,
+550,,K Neighbors,,40,"[[72 83]
+ [63 82]]",0.5150166852057843,,1.0,euclidean,uniform,,,
+551,,K Neighbors,,40,"[[75 80]
+ [62 83]]",0.5281423804226919,,1.0,manhattan,uniform,,,
+552,,K Neighbors,,40,"[[72 83]
+ [63 82]]",0.5150166852057843,,1.0,minkowski,uniform,,,
+553,,K Neighbors,,40,"[[72 83]
+ [63 82]]",0.5150166852057843,,1.0,euclidean,distance,,,
+554,,K Neighbors,,40,"[[75 80]
+ [62 83]]",0.5281423804226919,,1.0,manhattan,distance,,,
+555,,K Neighbors,,40,"[[72 83]
+ [63 82]]",0.5150166852057843,,1.0,minkowski,distance,,,
+556,,K Neighbors,,40,"[[71 84]
+ [71 74]]",0.4842046718576196,,3.0,euclidean,uniform,,,
+557,,K Neighbors,,40,"[[76 79]
+ [72 73]]",0.49688542825361515,,3.0,manhattan,uniform,,,
+558,,K Neighbors,,40,"[[71 84]
+ [71 74]]",0.4842046718576196,,3.0,minkowski,uniform,,,
+559,,K Neighbors,,40,"[[73 82]
+ [71 74]]",0.49065628476084544,,3.0,euclidean,distance,,,
+560,,K Neighbors,,40,"[[77 78]
+ [72 73]]",0.500111234705228,,3.0,manhattan,distance,,,
+561,,K Neighbors,,40,"[[73 82]
+ [71 74]]",0.49065628476084544,,3.0,minkowski,distance,,,
+562,,K Neighbors,,40,"[[78 77]
+ [76 69]]",0.4895439377085651,,5.0,euclidean,uniform,,,
+563,,K Neighbors,,40,"[[84 71]
+ [76 69]]",0.5088987764182425,,5.0,manhattan,uniform,,,
+564,,K Neighbors,,40,"[[78 77]
+ [76 69]]",0.4895439377085651,,5.0,minkowski,uniform,,,
+565,,K Neighbors,,40,"[[77 78]
+ [74 71]]",0.49321468298109006,,5.0,euclidean,distance,,,
+566,,K Neighbors,,40,"[[85 70]
+ [75 70]]",0.5155728587319244,,5.0,manhattan,distance,,,
+567,,K Neighbors,,40,"[[77 78]
+ [74 71]]",0.49321468298109006,,5.0,minkowski,distance,,,
+568,,K Neighbors,,40,"[[78 77]
+ [69 76]]",0.5136818687430479,,7.0,euclidean,uniform,,,
+569,,K Neighbors,,40,"[[80 75]
+ [68 77]]",0.5235817575083426,,7.0,manhattan,uniform,,,
+570,,K Neighbors,,40,"[[78 77]
+ [69 76]]",0.5136818687430479,,7.0,minkowski,uniform,,,
+571,,K Neighbors,,40,"[[78 77]
+ [66 79]]",0.5240266963292547,,7.0,euclidean,distance,,,
+572,,K Neighbors,,40,"[[83 72]
+ [69 76]]",0.5298109010011124,,7.0,manhattan,distance,,,
+573,,K Neighbors,,40,"[[78 77]
+ [66 79]]",0.5240266963292547,,7.0,minkowski,distance,,,
+574,,K Neighbors,,40,"[[84 71]
+ [74 71]]",0.5157953281423804,,9.0,euclidean,uniform,,,
+575,,K Neighbors,,40,"[[78 77]
+ [77 68]]",0.4860956618464961,,9.0,manhattan,uniform,,,
+576,,K Neighbors,,40,"[[84 71]
+ [74 71]]",0.5157953281423804,,9.0,minkowski,uniform,,,
+577,,K Neighbors,,40,"[[80 75]
+ [70 75]]",0.5166852057842046,,9.0,euclidean,distance,,,
+578,,K Neighbors,,40,"[[81 74]
+ [73 72]]",0.5095661846496107,,9.0,manhattan,distance,,,
+579,,K Neighbors,,40,"[[80 75]
+ [70 75]]",0.5166852057842046,,9.0,minkowski,distance,,,
+580,,K Neighbors,,40,"[[76 79]
+ [74 71]]",0.4899888765294772,,11.0,euclidean,uniform,,,
+581,,K Neighbors,,40,"[[76 79]
+ [73 72]]",0.4934371523915462,,11.0,manhattan,uniform,,,
+582,,K Neighbors,,40,"[[76 79]
+ [74 71]]",0.4899888765294772,,11.0,minkowski,uniform,,,
+583,,K Neighbors,,40,"[[74 81]
+ [69 76]]",0.5007786429365962,,11.0,euclidean,distance,,,
+584,,K Neighbors,,40,"[[74 81]
+ [70 75]]",0.49733036707452727,,11.0,manhattan,distance,,,
+585,,K Neighbors,,40,"[[74 81]
+ [69 76]]",0.5007786429365962,,11.0,minkowski,distance,,,
+586,,K Neighbors,,40,"[[70 85]
+ [72 73]]",0.4775305895439377,,13.0,euclidean,uniform,,,
+587,,K Neighbors,,40,"[[73 82]
+ [70 75]]",0.4941045606229143,,13.0,manhattan,uniform,,,
+588,,K Neighbors,,40,"[[70 85]
+ [72 73]]",0.4775305895439377,,13.0,minkowski,uniform,,,
+589,,K Neighbors,,40,"[[68 87]
+ [68 77]]",0.48487208008898774,,13.0,euclidean,distance,,,
+590,,K Neighbors,,40,"[[72 83]
+ [68 77]]",0.49777530589543934,,13.0,manhattan,distance,,,
+591,,K Neighbors,,40,"[[68 87]
+ [68 77]]",0.48487208008898774,,13.0,minkowski,distance,,,
+592,,K Neighbors,,40,"[[67 88]
+ [65 80]]",0.49199110122358175,,15.0,euclidean,uniform,,,
+593,,K Neighbors,,40,"[[68 87]
+ [66 79]]",0.4917686318131257,,15.0,manhattan,uniform,,,
+594,,K Neighbors,,40,"[[67 88]
+ [65 80]]",0.49199110122358175,,15.0,minkowski,uniform,,,
+595,,K Neighbors,,40,"[[65 90]
+ [65 80]]",0.48553948832035587,,15.0,euclidean,distance,,,
+596,,K Neighbors,,40,"[[68 87]
+ [69 76]]",0.48142380422691883,,15.0,manhattan,distance,,,
+597,,K Neighbors,,40,"[[65 90]
+ [65 80]]",0.48553948832035587,,15.0,minkowski,distance,,,
+598,,K Neighbors,,40,"[[64 91]
+ [65 80]]",0.4823136818687431,,17.0,euclidean,uniform,,,
+599,,K Neighbors,,40,"[[69 86]
+ [63 82]]",0.5053392658509455,,17.0,manhattan,uniform,,,
+600,,K Neighbors,,40,"[[64 91]
+ [65 80]]",0.4823136818687431,,17.0,minkowski,uniform,,,
+601,,K Neighbors,,40,"[[65 90]
+ [65 80]]",0.48553948832035587,,17.0,euclidean,distance,,,
+602,,K Neighbors,,40,"[[70 85]
+ [67 78]]",0.49477196885428254,,17.0,manhattan,distance,,,
+603,,K Neighbors,,40,"[[65 90]
+ [65 80]]",0.48553948832035587,,17.0,minkowski,distance,,,
+604,,K Neighbors,,40,"[[69 86]
+ [69 76]]",0.48464961067853174,,19.0,euclidean,uniform,,,
+605,,K Neighbors,,40,"[[65 90]
+ [70 75]]",0.4682981090100111,,19.0,manhattan,uniform,,,
+606,,K Neighbors,,40,"[[69 86]
+ [69 76]]",0.48464961067853174,,19.0,minkowski,uniform,,,
+607,,K Neighbors,,40,"[[68 87]
+ [70 75]]",0.4779755283648498,,19.0,euclidean,distance,,,
+608,,K Neighbors,,40,"[[66 89]
+ [70 75]]",0.47152391546162403,,19.0,manhattan,distance,,,
+609,,K Neighbors,,40,"[[68 87]
+ [70 75]]",0.4779755283648498,,19.0,minkowski,distance,,,
+610,,K Neighbors,,45,"[[72 83]
+ [63 82]]",0.5150166852057843,,1.0,euclidean,uniform,,,
+611,,K Neighbors,,45,"[[75 80]
+ [61 84]]",0.5315906562847609,,1.0,manhattan,uniform,,,
+612,,K Neighbors,,45,"[[72 83]
+ [63 82]]",0.5150166852057843,,1.0,minkowski,uniform,,,
+613,,K Neighbors,,45,"[[72 83]
+ [63 82]]",0.5150166852057843,,1.0,euclidean,distance,,,
+614,,K Neighbors,,45,"[[75 80]
+ [61 84]]",0.5315906562847609,,1.0,manhattan,distance,,,
+615,,K Neighbors,,45,"[[72 83]
+ [63 82]]",0.5150166852057843,,1.0,minkowski,distance,,,
+616,,K Neighbors,,45,"[[71 84]
+ [71 74]]",0.4842046718576196,,3.0,euclidean,uniform,,,
+617,,K Neighbors,,45,"[[76 79]
+ [72 73]]",0.49688542825361515,,3.0,manhattan,uniform,,,
+618,,K Neighbors,,45,"[[71 84]
+ [71 74]]",0.4842046718576196,,3.0,minkowski,uniform,,,
+619,,K Neighbors,,45,"[[73 82]
+ [71 74]]",0.49065628476084544,,3.0,euclidean,distance,,,
+620,,K Neighbors,,45,"[[77 78]
+ [72 73]]",0.500111234705228,,3.0,manhattan,distance,,,
+621,,K Neighbors,,45,"[[73 82]
+ [71 74]]",0.49065628476084544,,3.0,minkowski,distance,,,
+622,,K Neighbors,,45,"[[78 77]
+ [76 69]]",0.4895439377085651,,5.0,euclidean,uniform,,,
+623,,K Neighbors,,45,"[[84 71]
+ [76 69]]",0.5088987764182425,,5.0,manhattan,uniform,,,
+624,,K Neighbors,,45,"[[78 77]
+ [76 69]]",0.4895439377085651,,5.0,minkowski,uniform,,,
+625,,K Neighbors,,45,"[[77 78]
+ [74 71]]",0.49321468298109006,,5.0,euclidean,distance,,,
+626,,K Neighbors,,45,"[[85 70]
+ [75 70]]",0.5155728587319244,,5.0,manhattan,distance,,,
+627,,K Neighbors,,45,"[[77 78]
+ [74 71]]",0.49321468298109006,,5.0,minkowski,distance,,,
+628,,K Neighbors,,45,"[[78 77]
+ [69 76]]",0.5136818687430479,,7.0,euclidean,uniform,,,
+629,,K Neighbors,,45,"[[80 75]
+ [68 77]]",0.5235817575083426,,7.0,manhattan,uniform,,,
+630,,K Neighbors,,45,"[[78 77]
+ [69 76]]",0.5136818687430479,,7.0,minkowski,uniform,,,
+631,,K Neighbors,,45,"[[78 77]
+ [66 79]]",0.5240266963292547,,7.0,euclidean,distance,,,
+632,,K Neighbors,,45,"[[83 72]
+ [69 76]]",0.5298109010011124,,7.0,manhattan,distance,,,
+633,,K Neighbors,,45,"[[78 77]
+ [66 79]]",0.5240266963292547,,7.0,minkowski,distance,,,
+634,,K Neighbors,,45,"[[84 71]
+ [74 71]]",0.5157953281423804,,9.0,euclidean,uniform,,,
+635,,K Neighbors,,45,"[[78 77]
+ [77 68]]",0.4860956618464961,,9.0,manhattan,uniform,,,
+636,,K Neighbors,,45,"[[84 71]
+ [74 71]]",0.5157953281423804,,9.0,minkowski,uniform,,,
+637,,K Neighbors,,45,"[[80 75]
+ [70 75]]",0.5166852057842046,,9.0,euclidean,distance,,,
+638,,K Neighbors,,45,"[[80 75]
+ [73 72]]",0.5063403781979978,,9.0,manhattan,distance,,,
+639,,K Neighbors,,45,"[[80 75]
+ [70 75]]",0.5166852057842046,,9.0,minkowski,distance,,,
+640,,K Neighbors,,45,"[[76 79]
+ [74 71]]",0.4899888765294772,,11.0,euclidean,uniform,,,
+641,,K Neighbors,,45,"[[76 79]
+ [74 71]]",0.4899888765294772,,11.0,manhattan,uniform,,,
+642,,K Neighbors,,45,"[[76 79]
+ [74 71]]",0.4899888765294772,,11.0,minkowski,uniform,,,
+643,,K Neighbors,,45,"[[74 81]
+ [69 76]]",0.5007786429365962,,11.0,euclidean,distance,,,
+644,,K Neighbors,,45,"[[75 80]
+ [71 74]]",0.49710789766407126,,11.0,manhattan,distance,,,
+645,,K Neighbors,,45,"[[74 81]
+ [69 76]]",0.5007786429365962,,11.0,minkowski,distance,,,
+646,,K Neighbors,,45,"[[70 85]
+ [72 73]]",0.4775305895439377,,13.0,euclidean,uniform,,,
+647,,K Neighbors,,45,"[[73 82]
+ [71 74]]",0.49065628476084544,,13.0,manhattan,uniform,,,
+648,,K Neighbors,,45,"[[70 85]
+ [72 73]]",0.4775305895439377,,13.0,minkowski,uniform,,,
+649,,K Neighbors,,45,"[[68 87]
+ [68 77]]",0.48487208008898774,,13.0,euclidean,distance,,,
+650,,K Neighbors,,45,"[[72 83]
+ [69 76]]",0.4943270300333704,,13.0,manhattan,distance,,,
+651,,K Neighbors,,45,"[[68 87]
+ [68 77]]",0.48487208008898774,,13.0,minkowski,distance,,,
+652,,K Neighbors,,45,"[[67 88]
+ [65 80]]",0.49199110122358175,,15.0,euclidean,uniform,,,
+653,,K Neighbors,,45,"[[68 87]
+ [66 79]]",0.4917686318131257,,15.0,manhattan,uniform,,,
+654,,K Neighbors,,45,"[[67 88]
+ [65 80]]",0.49199110122358175,,15.0,minkowski,uniform,,,
+655,,K Neighbors,,45,"[[65 90]
+ [65 80]]",0.48553948832035587,,15.0,euclidean,distance,,,
+656,,K Neighbors,,45,"[[68 87]
+ [69 76]]",0.48142380422691883,,15.0,manhattan,distance,,,
+657,,K Neighbors,,45,"[[65 90]
+ [65 80]]",0.48553948832035587,,15.0,minkowski,distance,,,
+658,,K Neighbors,,45,"[[64 91]
+ [65 80]]",0.4823136818687431,,17.0,euclidean,uniform,,,
+659,,K Neighbors,,45,"[[70 85]
+ [63 82]]",0.5085650723025584,,17.0,manhattan,uniform,,,
+660,,K Neighbors,,45,"[[64 91]
+ [65 80]]",0.4823136818687431,,17.0,minkowski,uniform,,,
+661,,K Neighbors,,45,"[[65 90]
+ [65 80]]",0.48553948832035587,,17.0,euclidean,distance,,,
+662,,K Neighbors,,45,"[[70 85]
+ [67 78]]",0.49477196885428254,,17.0,manhattan,distance,,,
+663,,K Neighbors,,45,"[[65 90]
+ [65 80]]",0.48553948832035587,,17.0,minkowski,distance,,,
+664,,K Neighbors,,45,"[[69 86]
+ [69 76]]",0.48464961067853174,,19.0,euclidean,uniform,,,
+665,,K Neighbors,,45,"[[65 90]
+ [69 76]]",0.4717463848720801,,19.0,manhattan,uniform,,,
+666,,K Neighbors,,45,"[[69 86]
+ [69 76]]",0.48464961067853174,,19.0,minkowski,uniform,,,
+667,,K Neighbors,,45,"[[67 88]
+ [70 75]]",0.4747497219132369,,19.0,euclidean,distance,,,
+668,,K Neighbors,,45,"[[65 90]
+ [69 76]]",0.4717463848720801,,19.0,manhattan,distance,,,
+669,,K Neighbors,,45,"[[67 88]
+ [70 75]]",0.4747497219132369,,19.0,minkowski,distance,,,
+670,,K Neighbors,,50,"[[72 83]
+ [63 82]]",0.5150166852057843,,1.0,euclidean,uniform,,,
+671,,K Neighbors,,50,"[[75 80]
+ [61 84]]",0.5315906562847609,,1.0,manhattan,uniform,,,
+672,,K Neighbors,,50,"[[72 83]
+ [63 82]]",0.5150166852057843,,1.0,minkowski,uniform,,,
+673,,K Neighbors,,50,"[[72 83]
+ [63 82]]",0.5150166852057843,,1.0,euclidean,distance,,,
+674,,K Neighbors,,50,"[[75 80]
+ [61 84]]",0.5315906562847609,,1.0,manhattan,distance,,,
+675,,K Neighbors,,50,"[[72 83]
+ [63 82]]",0.5150166852057843,,1.0,minkowski,distance,,,
+676,,K Neighbors,,50,"[[71 84]
+ [71 74]]",0.4842046718576196,,3.0,euclidean,uniform,,,
+677,,K Neighbors,,50,"[[76 79]
+ [72 73]]",0.49688542825361515,,3.0,manhattan,uniform,,,
+678,,K Neighbors,,50,"[[71 84]
+ [71 74]]",0.4842046718576196,,3.0,minkowski,uniform,,,
+679,,K Neighbors,,50,"[[73 82]
+ [71 74]]",0.49065628476084544,,3.0,euclidean,distance,,,
+680,,K Neighbors,,50,"[[77 78]
+ [72 73]]",0.500111234705228,,3.0,manhattan,distance,,,
+681,,K Neighbors,,50,"[[73 82]
+ [71 74]]",0.49065628476084544,,3.0,minkowski,distance,,,
+682,,K Neighbors,,50,"[[78 77]
+ [76 69]]",0.4895439377085651,,5.0,euclidean,uniform,,,
+683,,K Neighbors,,50,"[[84 71]
+ [76 69]]",0.5088987764182425,,5.0,manhattan,uniform,,,
+684,,K Neighbors,,50,"[[78 77]
+ [76 69]]",0.4895439377085651,,5.0,minkowski,uniform,,,
+685,,K Neighbors,,50,"[[77 78]
+ [74 71]]",0.49321468298109006,,5.0,euclidean,distance,,,
+686,,K Neighbors,,50,"[[85 70]
+ [75 70]]",0.5155728587319244,,5.0,manhattan,distance,,,
+687,,K Neighbors,,50,"[[77 78]
+ [74 71]]",0.49321468298109006,,5.0,minkowski,distance,,,
+688,,K Neighbors,,50,"[[78 77]
+ [69 76]]",0.5136818687430479,,7.0,euclidean,uniform,,,
+689,,K Neighbors,,50,"[[80 75]
+ [68 77]]",0.5235817575083426,,7.0,manhattan,uniform,,,
+690,,K Neighbors,,50,"[[78 77]
+ [69 76]]",0.5136818687430479,,7.0,minkowski,uniform,,,
+691,,K Neighbors,,50,"[[78 77]
+ [66 79]]",0.5240266963292547,,7.0,euclidean,distance,,,
+692,,K Neighbors,,50,"[[83 72]
+ [69 76]]",0.5298109010011124,,7.0,manhattan,distance,,,
+693,,K Neighbors,,50,"[[78 77]
+ [66 79]]",0.5240266963292547,,7.0,minkowski,distance,,,
+694,,K Neighbors,,50,"[[84 71]
+ [74 71]]",0.5157953281423804,,9.0,euclidean,uniform,,,
+695,,K Neighbors,,50,"[[78 77]
+ [77 68]]",0.4860956618464961,,9.0,manhattan,uniform,,,
+696,,K Neighbors,,50,"[[84 71]
+ [74 71]]",0.5157953281423804,,9.0,minkowski,uniform,,,
+697,,K Neighbors,,50,"[[80 75]
+ [70 75]]",0.5166852057842046,,9.0,euclidean,distance,,,
+698,,K Neighbors,,50,"[[80 75]
+ [73 72]]",0.5063403781979978,,9.0,manhattan,distance,,,
+699,,K Neighbors,,50,"[[80 75]
+ [70 75]]",0.5166852057842046,,9.0,minkowski,distance,,,
+700,,K Neighbors,,50,"[[76 79]
+ [74 71]]",0.4899888765294772,,11.0,euclidean,uniform,,,
+701,,K Neighbors,,50,"[[76 79]
+ [74 71]]",0.4899888765294772,,11.0,manhattan,uniform,,,
+702,,K Neighbors,,50,"[[76 79]
+ [74 71]]",0.4899888765294772,,11.0,minkowski,uniform,,,
+703,,K Neighbors,,50,"[[74 81]
+ [69 76]]",0.5007786429365962,,11.0,euclidean,distance,,,
+704,,K Neighbors,,50,"[[75 80]
+ [71 74]]",0.49710789766407126,,11.0,manhattan,distance,,,
+705,,K Neighbors,,50,"[[74 81]
+ [69 76]]",0.5007786429365962,,11.0,minkowski,distance,,,
+706,,K Neighbors,,50,"[[70 85]
+ [72 73]]",0.4775305895439377,,13.0,euclidean,uniform,,,
+707,,K Neighbors,,50,"[[73 82]
+ [71 74]]",0.49065628476084544,,13.0,manhattan,uniform,,,
+708,,K Neighbors,,50,"[[70 85]
+ [72 73]]",0.4775305895439377,,13.0,minkowski,uniform,,,
+709,,K Neighbors,,50,"[[68 87]
+ [68 77]]",0.48487208008898774,,13.0,euclidean,distance,,,
+710,,K Neighbors,,50,"[[72 83]
+ [69 76]]",0.4943270300333704,,13.0,manhattan,distance,,,
+711,,K Neighbors,,50,"[[68 87]
+ [68 77]]",0.48487208008898774,,13.0,minkowski,distance,,,
+712,,K Neighbors,,50,"[[67 88]
+ [65 80]]",0.49199110122358175,,15.0,euclidean,uniform,,,
+713,,K Neighbors,,50,"[[68 87]
+ [66 79]]",0.4917686318131257,,15.0,manhattan,uniform,,,
+714,,K Neighbors,,50,"[[67 88]
+ [65 80]]",0.49199110122358175,,15.0,minkowski,uniform,,,
+715,,K Neighbors,,50,"[[65 90]
+ [65 80]]",0.48553948832035587,,15.0,euclidean,distance,,,
+716,,K Neighbors,,50,"[[68 87]
+ [69 76]]",0.48142380422691883,,15.0,manhattan,distance,,,
+717,,K Neighbors,,50,"[[65 90]
+ [65 80]]",0.48553948832035587,,15.0,minkowski,distance,,,
+718,,K Neighbors,,50,"[[64 91]
+ [65 80]]",0.4823136818687431,,17.0,euclidean,uniform,,,
+719,,K Neighbors,,50,"[[70 85]
+ [63 82]]",0.5085650723025584,,17.0,manhattan,uniform,,,
+720,,K Neighbors,,50,"[[64 91]
+ [65 80]]",0.4823136818687431,,17.0,minkowski,uniform,,,
+721,,K Neighbors,,50,"[[65 90]
+ [65 80]]",0.48553948832035587,,17.0,euclidean,distance,,,
+722,,K Neighbors,,50,"[[70 85]
+ [67 78]]",0.49477196885428254,,17.0,manhattan,distance,,,
+723,,K Neighbors,,50,"[[65 90]
+ [65 80]]",0.48553948832035587,,17.0,minkowski,distance,,,
+724,,K Neighbors,,50,"[[69 86]
+ [69 76]]",0.48464961067853174,,19.0,euclidean,uniform,,,
+725,,K Neighbors,,50,"[[65 90]
+ [69 76]]",0.4717463848720801,,19.0,manhattan,uniform,,,
+726,,K Neighbors,,50,"[[69 86]
+ [69 76]]",0.48464961067853174,,19.0,minkowski,uniform,,,
+727,,K Neighbors,,50,"[[67 88]
+ [70 75]]",0.4747497219132369,,19.0,euclidean,distance,,,
+728,,K Neighbors,,50,"[[65 90]
+ [69 76]]",0.4717463848720801,,19.0,manhattan,distance,,,
+729,,K Neighbors,,50,"[[67 88]
+ [70 75]]",0.4747497219132369,,19.0,minkowski,distance,,,
+730,,Random Forest,,5,"[[76 79]
+ [78 67]]",0.47619577308120137,,,,,100.0,1.0,
+731,,Random Forest,,5,"[[69 86]
+ [69 76]]",0.48464961067853174,,,,,100.0,3.0,
+732,,Random Forest,,5,"[[73 82]
+ [73 72]]",0.4837597330367075,,,,,100.0,5.0,
+733,,Random Forest,,5,"[[58 97]
+ [61 84]]",0.47675194660734155,,,,,100.0,7.0,
+734,,Random Forest,,5,"[[57 98]
+ [62 83]]",0.4700778642936596,,,,,100.0,9.0,
+735,,Random Forest,,5,"[[56 99]
+ [54 91]]",0.49443826473859853,,,,,100.0,11.0,
+736,,Random Forest,,5,"[[ 55 100]
+ [ 58  87]]",0.4774193548387097,,,,,100.0,13.0,
+737,,Random Forest,,5,"[[ 51 104]
+ [ 54  91]]",0.4783092324805339,,,,,100.0,15.0,
+738,,Random Forest,,5,"[[ 51 104]
+ [ 47  98]]",0.5024471635150167,,,,,100.0,17.0,
+739,,Random Forest,,5,"[[ 50 105]
+ [ 49  96]]",0.49232480533926587,,,,,100.0,19.0,
+740,,Random Forest,,5,"[[73 82]
+ [74 71]]",0.4803114571746384,,,,,200.0,1.0,
+741,,Random Forest,,5,"[[66 89]
+ [70 75]]",0.47152391546162403,,,,,200.0,3.0,
+742,,Random Forest,,5,"[[65 90]
+ [68 77]]",0.47519466073414895,,,,,200.0,5.0,
+743,,Random Forest,,5,"[[57 98]
+ [66 79]]",0.45628476084538383,,,,,200.0,7.0,
+744,,Random Forest,,5,"[[60 95]
+ [62 83]]",0.47975528364849834,,,,,200.0,9.0,
+745,,Random Forest,,5,"[[59 96]
+ [57 88]]",0.4937708565072302,,,,,200.0,11.0,
+746,,Random Forest,,5,"[[56 99]
+ [54 91]]",0.49443826473859853,,,,,200.0,13.0,
+747,,Random Forest,,5,"[[58 97]
+ [52 93]]",0.5077864293659622,,,,,200.0,15.0,
+748,,Random Forest,,5,"[[ 55 100]
+ [ 54  91]]",0.49121245828698556,,,,,200.0,17.0,
+749,,Random Forest,,5,"[[ 48 107]
+ [ 48  97]]",0.48932146829810896,,,,,200.0,19.0,
+750,,Random Forest,,5,"[[75 80]
+ [81 64]]",0.46262513904338154,,,,,300.0,1.0,
+751,,Random Forest,,5,"[[66 89]
+ [72 73]]",0.46462736373748603,,,,,300.0,3.0,
+752,,Random Forest,,5,"[[63 92]
+ [68 77]]",0.46874304783092324,,,,,300.0,5.0,
+753,,Random Forest,,5,"[[61 94]
+ [67 78]]",0.4657397107897664,,,,,300.0,7.0,
+754,,Random Forest,,5,"[[60 95]
+ [66 79]]",0.4659621802002224,,,,,300.0,9.0,
+755,,Random Forest,,5,"[[ 55 100]
+ [ 56  89]]",0.4843159065628476,,,,,300.0,11.0,
+756,,Random Forest,,5,"[[ 52 103]
+ [ 52  93]]",0.4884315906562847,,,,,300.0,13.0,
+757,,Random Forest,,5,"[[56 99]
+ [56 89]]",0.4875417130144606,,,,,300.0,15.0,
+758,,Random Forest,,5,"[[56 99]
+ [52 93]]",0.5013348164627364,,,,,300.0,17.0,
+759,,Random Forest,,5,"[[ 53 102]
+ [ 52  93]]",0.49165739710789763,,,,,300.0,19.0,
+760,,Random Forest,,5,"[[74 81]
+ [78 67]]",0.4697441601779755,,,,,500.0,1.0,
+761,,Random Forest,,5,"[[67 88]
+ [72 73]]",0.467853170189099,,,,,500.0,3.0,
+762,,Random Forest,,5,"[[62 93]
+ [70 75]]",0.45862068965517244,,,,,500.0,5.0,
+763,,Random Forest,,5,"[[64 91]
+ [69 76]]",0.4685205784204673,,,,,500.0,7.0,
+764,,Random Forest,,5,"[[62 93]
+ [65 80]]",0.47586206896551725,,,,,500.0,9.0,
+765,,Random Forest,,5,"[[ 53 102]
+ [ 53  92]]",0.4882091212458287,,,,,500.0,11.0,
+766,,Random Forest,,5,"[[ 53 102]
+ [ 55  90]]",0.48131256952169077,,,,,500.0,13.0,
+767,,Random Forest,,5,"[[ 54 101]
+ [ 53  92]]",0.4914349276974416,,,,,500.0,15.0,
+768,,Random Forest,,5,"[[ 55 100]
+ [ 51  94]]",0.5015572858731925,,,,,500.0,17.0,
+769,,Random Forest,,5,"[[57 98]
+ [53 92]]",0.5011123470522804,,,,,500.0,19.0,
+770,,Random Forest,,5,"[[73 82]
+ [78 67]]",0.4665183537263626,,,,,1000.0,1.0,
+771,,Random Forest,,5,"[[64 91]
+ [66 79]]",0.47886540600667404,,,,,1000.0,3.0,
+772,,Random Forest,,5,"[[63 92]
+ [68 77]]",0.46874304783092324,,,,,1000.0,5.0,
+773,,Random Forest,,5,"[[61 94]
+ [67 78]]",0.4657397107897664,,,,,1000.0,7.0,
+774,,Random Forest,,5,"[[56 99]
+ [60 85]]",0.4737486095661847,,,,,1000.0,9.0,
+775,,Random Forest,,5,"[[ 54 101]
+ [ 58  87]]",0.4741935483870968,,,,,1000.0,11.0,
+776,,Random Forest,,5,"[[56 99]
+ [55 90]]",0.49098998887652945,,,,,1000.0,13.0,
+777,,Random Forest,,5,"[[ 51 104]
+ [ 51  94]]",0.4886540600667408,,,,,1000.0,15.0,
+778,,Random Forest,,5,"[[ 52 103]
+ [ 51  94]]",0.4918798665183537,,,,,1000.0,17.0,
+779,,Random Forest,,5,"[[ 51 104]
+ [ 51  94]]",0.4886540600667408,,,,,1000.0,19.0,
+780,,Random Forest,,10,"[[81 74]
+ [49 96]]",0.5923248053392658,,,,,100.0,1.0,
+781,,Random Forest,,10,"[[68 87]
+ [52 93]]",0.5400444938820912,,,,,100.0,3.0,
+782,,Random Forest,,10,"[[ 67  88]
+ [ 45 100]]",0.560956618464961,,,,,100.0,5.0,
+783,,Random Forest,,10,"[[77 78]
+ [55 90]]",0.5587319243604005,,,,,100.0,7.0,
+784,,Random Forest,,10,"[[62 93]
+ [53 92]]",0.5172413793103449,,,,,100.0,9.0,
+785,,Random Forest,,10,"[[63 92]
+ [49 96]]",0.5342602892102336,,,,,100.0,11.0,
+786,,Random Forest,,10,"[[ 59  96]
+ [ 42 103]]",0.5454949944382648,,,,,100.0,13.0,
+787,,Random Forest,,10,"[[79 76]
+ [54 91]]",0.5686318131256953,,,,,100.0,15.0,
+788,,Random Forest,,10,"[[68 87]
+ [47 98]]",0.557285873192436,,,,,100.0,17.0,
+789,,Random Forest,,10,"[[65 90]
+ [46 99]]",0.5510567296996662,,,,,100.0,19.0,
+790,,Random Forest,,10,"[[74 81]
+ [51 94]]",0.5628476084538376,,,,,200.0,1.0,
+791,,Random Forest,,10,"[[68 87]
+ [47 98]]",0.557285873192436,,,,,200.0,3.0,
+792,,Random Forest,,10,"[[ 69  86]
+ [ 42 103]]",0.5777530589543938,,,,,200.0,5.0,
+793,,Random Forest,,10,"[[ 63  92]
+ [ 45 100]]",0.5480533926585095,,,,,200.0,7.0,
+794,,Random Forest,,10,"[[66 89]
+ [47 98]]",0.5508342602892102,,,,,200.0,9.0,
+795,,Random Forest,,10,"[[75 80]
+ [54 91]]",0.5557285873192437,,,,,200.0,11.0,
+796,,Random Forest,,10,"[[68 87]
+ [50 95]]",0.5469410456062291,,,,,200.0,13.0,
+797,,Random Forest,,10,"[[64 91]
+ [52 93]]",0.5271412680756397,,,,,200.0,15.0,
+798,,Random Forest,,10,"[[66 89]
+ [50 95]]",0.5404894327030033,,,,,200.0,17.0,
+799,,Random Forest,,10,"[[65 90]
+ [50 95]]",0.5372636262513903,,,,,200.0,19.0,
+800,,Random Forest,,10,"[[77 78]
+ [56 89]]",0.5552836484983316,,,,,300.0,1.0,
+801,,Random Forest,,10,"[[68 87]
+ [48 97]]",0.5538375973303671,,,,,300.0,3.0,
+802,,Random Forest,,10,"[[64 91]
+ [48 97]]",0.5409343715239154,,,,,300.0,5.0,
+803,,Random Forest,,10,"[[67 88]
+ [52 93]]",0.5368186874304782,,,,,300.0,7.0,
+804,,Random Forest,,10,"[[69 86]
+ [54 91]]",0.5363737486095662,,,,,300.0,9.0,
+805,,Random Forest,,10,"[[71 84]
+ [53 92]]",0.5462736373748609,,,,,300.0,11.0,
+806,,Random Forest,,10,"[[66 89]
+ [48 97]]",0.5473859844271413,,,,,300.0,13.0,
+807,,Random Forest,,10,"[[68 87]
+ [48 97]]",0.5538375973303671,,,,,300.0,15.0,
+808,,Random Forest,,10,"[[67 88]
+ [47 98]]",0.5540600667408231,,,,,300.0,17.0,
+809,,Random Forest,,10,"[[67 88]
+ [52 93]]",0.5368186874304782,,,,,300.0,19.0,
+810,,Random Forest,,10,"[[75 80]
+ [47 98]]",0.5798665183537264,,,,,500.0,1.0,
+811,,Random Forest,,10,"[[ 68  87]
+ [ 44 101]]",0.5676307007786429,,,,,500.0,3.0,
+812,,Random Forest,,10,"[[72 83]
+ [49 96]]",0.5632925472747498,,,,,500.0,5.0,
+813,,Random Forest,,10,"[[ 62  93]
+ [ 45 100]]",0.5448275862068965,,,,,500.0,7.0,
+814,,Random Forest,,10,"[[69 86]
+ [49 96]]",0.5536151279199111,,,,,500.0,9.0,
+815,,Random Forest,,10,"[[67 88]
+ [52 93]]",0.5368186874304782,,,,,500.0,11.0,
+816,,Random Forest,,10,"[[67 88]
+ [53 92]]",0.5333704115684094,,,,,500.0,13.0,
+817,,Random Forest,,10,"[[70 85]
+ [50 95]]",0.553392658509455,,,,,500.0,15.0,
+818,,Random Forest,,10,"[[ 61  94]
+ [ 45 100]]",0.5416017797552837,,,,,500.0,17.0,
+819,,Random Forest,,10,"[[63 92]
+ [51 94]]",0.5273637374860957,,,,,500.0,19.0,
+820,,Random Forest,,10,"[[71 84]
+ [50 95]]",0.5566184649610678,,,,,1000.0,1.0,
+821,,Random Forest,,10,"[[72 83]
+ [48 97]]",0.5667408231368187,,,,,1000.0,3.0,
+822,,Random Forest,,10,"[[69 86]
+ [49 96]]",0.5536151279199111,,,,,1000.0,5.0,
+823,,Random Forest,,10,"[[68 87]
+ [47 98]]",0.557285873192436,,,,,1000.0,7.0,
+824,,Random Forest,,10,"[[69 86]
+ [50 95]]",0.550166852057842,,,,,1000.0,9.0,
+825,,Random Forest,,10,"[[61 94]
+ [46 99]]",0.5381535038932147,,,,,1000.0,11.0,
+826,,Random Forest,,10,"[[66 89]
+ [53 92]]",0.5301446051167964,,,,,1000.0,13.0,
+827,,Random Forest,,10,"[[68 87]
+ [51 94]]",0.5434927697441602,,,,,1000.0,15.0,
+828,,Random Forest,,10,"[[70 85]
+ [50 95]]",0.553392658509455,,,,,1000.0,17.0,
+829,,Random Forest,,10,"[[65 90]
+ [52 93]]",0.5303670745272525,,,,,1000.0,19.0,
+830,,Random Forest,,15,"[[77 78]
+ [62 83]]",0.5345939933259177,,,,,100.0,1.0,
+831,,Random Forest,,15,"[[63 92]
+ [50 95]]",0.5308120133481646,,,,,100.0,3.0,
+832,,Random Forest,,15,"[[71 84]
+ [50 95]]",0.5566184649610678,,,,,100.0,5.0,
+833,,Random Forest,,15,"[[64 91]
+ [48 97]]",0.5409343715239154,,,,,100.0,7.0,
+834,,Random Forest,,15,"[[69 86]
+ [54 91]]",0.5363737486095662,,,,,100.0,9.0,
+835,,Random Forest,,15,"[[76 79]
+ [59 86]]",0.5417130144605116,,,,,100.0,11.0,
+836,,Random Forest,,15,"[[60 95]
+ [53 92]]",0.510789766407119,,,,,100.0,13.0,
+837,,Random Forest,,15,"[[68 87]
+ [51 94]]",0.5434927697441602,,,,,100.0,15.0,
+838,,Random Forest,,15,"[[72 83]
+ [50 95]]",0.5598442714126807,,,,,100.0,17.0,
+839,,Random Forest,,15,"[[75 80]
+ [55 90]]",0.5522803114571746,,,,,100.0,19.0,
+840,,Random Forest,,15,"[[72 83]
+ [53 92]]",0.5494994438264739,,,,,200.0,1.0,
+841,,Random Forest,,15,"[[76 79]
+ [55 90]]",0.5555061179087875,,,,,200.0,3.0,
+842,,Random Forest,,15,"[[72 83]
+ [53 92]]",0.5494994438264739,,,,,200.0,5.0,
+843,,Random Forest,,15,"[[76 79]
+ [53 92]]",0.5624026696329255,,,,,200.0,7.0,
+844,,Random Forest,,15,"[[77 78]
+ [52 93]]",0.5690767519466073,,,,,200.0,9.0,
+845,,Random Forest,,15,"[[71 84]
+ [52 93]]",0.5497219132369299,,,,,200.0,11.0,
+846,,Random Forest,,15,"[[72 83]
+ [55 90]]",0.5426028921023359,,,,,200.0,13.0,
+847,,Random Forest,,15,"[[77 78]
+ [50 95]]",0.5759733036707453,,,,,200.0,15.0,
+848,,Random Forest,,15,"[[75 80]
+ [55 90]]",0.5522803114571746,,,,,200.0,17.0,
+849,,Random Forest,,15,"[[79 76]
+ [57 88]]",0.5582869855394883,,,,,200.0,19.0,
+850,,Random Forest,,15,"[[75 80]
+ [63 82]]",0.5246941045606229,,,,,300.0,1.0,
+851,,Random Forest,,15,"[[64 91]
+ [55 90]]",0.5167964404894327,,,,,300.0,3.0,
+852,,Random Forest,,15,"[[72 83]
+ [57 88]]",0.535706340378198,,,,,300.0,5.0,
+853,,Random Forest,,15,"[[76 79]
+ [57 88]]",0.5486095661846496,,,,,300.0,7.0,
+854,,Random Forest,,15,"[[72 83]
+ [50 95]]",0.5598442714126807,,,,,300.0,9.0,
+855,,Random Forest,,15,"[[69 86]
+ [52 93]]",0.543270300333704,,,,,300.0,11.0,
+856,,Random Forest,,15,"[[76 79]
+ [51 94]]",0.5692992213570633,,,,,300.0,13.0,
+857,,Random Forest,,15,"[[69 86]
+ [50 95]]",0.550166852057842,,,,,300.0,15.0,
+858,,Random Forest,,15,"[[74 81]
+ [51 94]]",0.5628476084538376,,,,,300.0,17.0,
+859,,Random Forest,,15,"[[74 81]
+ [52 93]]",0.5593993325917685,,,,,300.0,19.0,
+860,,Random Forest,,15,"[[77 78]
+ [57 88]]",0.5518353726362625,,,,,500.0,1.0,
+861,,Random Forest,,15,"[[71 84]
+ [55 90]]",0.539377085650723,,,,,500.0,3.0,
+862,,Random Forest,,15,"[[72 83]
+ [55 90]]",0.5426028921023359,,,,,500.0,5.0,
+863,,Random Forest,,15,"[[65 90]
+ [54 91]]",0.5234705228031146,,,,,500.0,7.0,
+864,,Random Forest,,15,"[[69 86]
+ [56 89]]",0.5294771968854283,,,,,500.0,9.0,
+865,,Random Forest,,15,"[[71 84]
+ [50 95]]",0.5566184649610678,,,,,500.0,11.0,
+866,,Random Forest,,15,"[[70 85]
+ [48 97]]",0.5602892102335929,,,,,500.0,13.0,
+867,,Random Forest,,15,"[[72 83]
+ [53 92]]",0.5494994438264739,,,,,500.0,15.0,
+868,,Random Forest,,15,"[[77 78]
+ [48 97]]",0.5828698553948832,,,,,500.0,17.0,
+869,,Random Forest,,15,"[[74 81]
+ [52 93]]",0.5593993325917685,,,,,500.0,19.0,
+870,,Random Forest,,15,"[[72 83]
+ [56 89]]",0.539154616240267,,,,,1000.0,1.0,
+871,,Random Forest,,15,"[[72 83]
+ [51 94]]",0.5563959955506117,,,,,1000.0,3.0,
+872,,Random Forest,,15,"[[68 87]
+ [55 90]]",0.5296996662958844,,,,,1000.0,5.0,
+873,,Random Forest,,15,"[[68 87]
+ [56 89]]",0.5262513904338153,,,,,1000.0,7.0,
+874,,Random Forest,,15,"[[74 81]
+ [55 90]]",0.5490545050055617,,,,,1000.0,9.0,
+875,,Random Forest,,15,"[[71 84]
+ [52 93]]",0.5497219132369299,,,,,1000.0,11.0,
+876,,Random Forest,,15,"[[71 84]
+ [50 95]]",0.5566184649610678,,,,,1000.0,13.0,
+877,,Random Forest,,15,"[[75 80]
+ [51 94]]",0.5660734149054505,,,,,1000.0,15.0,
+878,,Random Forest,,15,"[[71 84]
+ [50 95]]",0.5566184649610678,,,,,1000.0,17.0,
+879,,Random Forest,,15,"[[70 85]
+ [49 96]]",0.5568409343715239,,,,,1000.0,19.0,
+880,,Random Forest,,20,"[[72 83]
+ [59 86]]",0.52880978865406,,,,,100.0,1.0,
+881,,Random Forest,,20,"[[78 77]
+ [63 82]]",0.5343715239154616,,,,,100.0,3.0,
+882,,Random Forest,,20,"[[66 89]
+ [47 98]]",0.5508342602892102,,,,,100.0,5.0,
+883,,Random Forest,,20,"[[75 80]
+ [58 87]]",0.5419354838709678,,,,,100.0,7.0,
+884,,Random Forest,,20,"[[65 90]
+ [51 94]]",0.5338153503893214,,,,,100.0,9.0,
+885,,Random Forest,,20,"[[ 61  94]
+ [ 45 100]]",0.5416017797552837,,,,,100.0,11.0,
+886,,Random Forest,,20,"[[71 84]
+ [49 96]]",0.5600667408231368,,,,,100.0,13.0,
+887,,Random Forest,,20,"[[83 72]
+ [58 87]]",0.5677419354838709,,,,,100.0,15.0,
+888,,Random Forest,,20,"[[73 82]
+ [50 95]]",0.5630700778642936,,,,,100.0,17.0,
+889,,Random Forest,,20,"[[71 84]
+ [56 89]]",0.5359288097886541,,,,,100.0,19.0,
+890,,Random Forest,,20,"[[71 84]
+ [59 86]]",0.5255839822024471,,,,,200.0,1.0,
+891,,Random Forest,,20,"[[66 89]
+ [58 87]]",0.5129032258064516,,,,,200.0,3.0,
+892,,Random Forest,,20,"[[68 87]
+ [49 96]]",0.5503893214682981,,,,,200.0,5.0,
+893,,Random Forest,,20,"[[66 89]
+ [53 92]]",0.5301446051167964,,,,,200.0,7.0,
+894,,Random Forest,,20,"[[67 88]
+ [51 94]]",0.5402669632925472,,,,,200.0,9.0,
+895,,Random Forest,,20,"[[73 82]
+ [53 92]]",0.5527252502780867,,,,,200.0,11.0,
+896,,Random Forest,,20,"[[74 81]
+ [48 97]]",0.5731924360400444,,,,,200.0,13.0,
+897,,Random Forest,,20,"[[81 74]
+ [53 92]]",0.57853170189099,,,,,200.0,15.0,
+898,,Random Forest,,20,"[[75 80]
+ [55 90]]",0.5522803114571746,,,,,200.0,17.0,
+899,,Random Forest,,20,"[[72 83]
+ [55 90]]",0.5426028921023359,,,,,200.0,19.0,
+900,,Random Forest,,20,"[[82 73]
+ [57 88]]",0.567964404894327,,,,,300.0,1.0,
+901,,Random Forest,,20,"[[71 84]
+ [57 88]]",0.532480533926585,,,,,300.0,3.0,
+902,,Random Forest,,20,"[[67 88]
+ [49 96]]",0.5471635150166853,,,,,300.0,5.0,
+903,,Random Forest,,20,"[[65 90]
+ [53 92]]",0.5269187986651835,,,,,300.0,7.0,
+904,,Random Forest,,20,"[[75 80]
+ [57 88]]",0.5453837597330367,,,,,300.0,9.0,
+905,,Random Forest,,20,"[[74 81]
+ [51 94]]",0.5628476084538376,,,,,300.0,11.0,
+906,,Random Forest,,20,"[[75 80]
+ [54 91]]",0.5557285873192437,,,,,300.0,13.0,
+907,,Random Forest,,20,"[[77 78]
+ [51 94]]",0.5725250278086763,,,,,300.0,15.0,
+908,,Random Forest,,20,"[[75 80]
+ [54 91]]",0.5557285873192437,,,,,300.0,17.0,
+909,,Random Forest,,20,"[[75 80]
+ [51 94]]",0.5660734149054505,,,,,300.0,19.0,
+910,,Random Forest,,20,"[[74 81]
+ [63 82]]",0.52146829810901,,,,,500.0,1.0,
+911,,Random Forest,,20,"[[74 81]
+ [58 87]]",0.5387096774193548,,,,,500.0,3.0,
+912,,Random Forest,,20,"[[72 83]
+ [53 92]]",0.5494994438264739,,,,,500.0,5.0,
+913,,Random Forest,,20,"[[69 86]
+ [53 92]]",0.5398220244716352,,,,,500.0,7.0,
+914,,Random Forest,,20,"[[76 79]
+ [52 93]]",0.5658509454949945,,,,,500.0,9.0,
+915,,Random Forest,,20,"[[72 83]
+ [53 92]]",0.5494994438264739,,,,,500.0,11.0,
+916,,Random Forest,,20,"[[74 81]
+ [50 95]]",0.5662958843159065,,,,,500.0,13.0,
+917,,Random Forest,,20,"[[74 81]
+ [51 94]]",0.5628476084538376,,,,,500.0,15.0,
+918,,Random Forest,,20,"[[74 81]
+ [56 89]]",0.5456062291434928,,,,,500.0,17.0,
+919,,Random Forest,,20,"[[74 81]
+ [50 95]]",0.5662958843159065,,,,,500.0,19.0,
+920,,Random Forest,,20,"[[76 79]
+ [62 83]]",0.5313681868743049,,,,,1000.0,1.0,
+921,,Random Forest,,20,"[[69 86]
+ [57 88]]",0.5260289210233593,,,,,1000.0,3.0,
+922,,Random Forest,,20,"[[67 88]
+ [57 88]]",0.5195773081201335,,,,,1000.0,5.0,
+923,,Random Forest,,20,"[[72 83]
+ [53 92]]",0.5494994438264739,,,,,1000.0,7.0,
+924,,Random Forest,,20,"[[73 82]
+ [51 94]]",0.5596218020022247,,,,,1000.0,9.0,
+925,,Random Forest,,20,"[[73 82]
+ [51 94]]",0.5596218020022247,,,,,1000.0,11.0,
+926,,Random Forest,,20,"[[73 82]
+ [49 96]]",0.5665183537263626,,,,,1000.0,13.0,
+927,,Random Forest,,20,"[[72 83]
+ [49 96]]",0.5632925472747498,,,,,1000.0,15.0,
+928,,Random Forest,,20,"[[75 80]
+ [49 96]]",0.5729699666295884,,,,,1000.0,17.0,
+929,,Random Forest,,20,"[[74 81]
+ [53 92]]",0.5559510567296997,,,,,1000.0,19.0,
+930,,Random Forest,,25,"[[73 82]
+ [62 83]]",0.5216907675194661,,,,,100.0,1.0,
+931,,Random Forest,,25,"[[77 78]
+ [61 84]]",0.5380422691879867,,,,,100.0,3.0,
+932,,Random Forest,,25,"[[74 81]
+ [55 90]]",0.5490545050055617,,,,,100.0,5.0,
+933,,Random Forest,,25,"[[83 72]
+ [61 84]]",0.5573971078976641,,,,,100.0,7.0,
+934,,Random Forest,,25,"[[75 80]
+ [57 88]]",0.5453837597330367,,,,,100.0,9.0,
+935,,Random Forest,,25,"[[79 76]
+ [64 81]]",0.5341490545050056,,,,,100.0,11.0,
+936,,Random Forest,,25,"[[78 77]
+ [53 92]]",0.5688542825361512,,,,,100.0,13.0,
+937,,Random Forest,,25,"[[81 74]
+ [58 87]]",0.5612903225806452,,,,,100.0,15.0,
+938,,Random Forest,,25,"[[66 89]
+ [52 93]]",0.5335928809788654,,,,,100.0,17.0,
+939,,Random Forest,,25,"[[72 83]
+ [57 88]]",0.535706340378198,,,,,100.0,19.0,
+940,,Random Forest,,25,"[[80 75]
+ [61 84]]",0.5477196885428254,,,,,200.0,1.0,
+941,,Random Forest,,25,"[[75 80]
+ [56 89]]",0.5488320355951057,,,,,200.0,3.0,
+942,,Random Forest,,25,"[[83 72]
+ [60 85]]",0.560845383759733,,,,,200.0,5.0,
+943,,Random Forest,,25,"[[67 88]
+ [52 93]]",0.5368186874304782,,,,,200.0,7.0,
+944,,Random Forest,,25,"[[75 80]
+ [59 86]]",0.5384872080088987,,,,,200.0,9.0,
+945,,Random Forest,,25,"[[71 84]
+ [55 90]]",0.539377085650723,,,,,200.0,11.0,
+946,,Random Forest,,25,"[[73 82]
+ [50 95]]",0.5630700778642936,,,,,200.0,13.0,
+947,,Random Forest,,25,"[[73 82]
+ [47 98]]",0.5734149054505006,,,,,200.0,15.0,
+948,,Random Forest,,25,"[[72 83]
+ [58 87]]",0.532258064516129,,,,,200.0,17.0,
+949,,Random Forest,,25,"[[74 81]
+ [58 87]]",0.5387096774193548,,,,,200.0,19.0,
+950,,Random Forest,,25,"[[71 84]
+ [62 83]]",0.5152391546162403,,,,,300.0,1.0,
+951,,Random Forest,,25,"[[75 80]
+ [61 84]]",0.5315906562847609,,,,,300.0,3.0,
+952,,Random Forest,,25,"[[82 73]
+ [59 86]]",0.561067853170189,,,,,300.0,5.0,
+953,,Random Forest,,25,"[[75 80]
+ [54 91]]",0.5557285873192437,,,,,300.0,7.0,
+954,,Random Forest,,25,"[[72 83]
+ [53 92]]",0.5494994438264739,,,,,300.0,9.0,
+955,,Random Forest,,25,"[[77 78]
+ [53 92]]",0.5656284760845384,,,,,300.0,11.0,
+956,,Random Forest,,25,"[[76 79]
+ [57 88]]",0.5486095661846496,,,,,300.0,13.0,
+957,,Random Forest,,25,"[[74 81]
+ [56 89]]",0.5456062291434928,,,,,300.0,15.0,
+958,,Random Forest,,25,"[[73 82]
+ [54 91]]",0.5492769744160179,,,,,300.0,17.0,
+959,,Random Forest,,25,"[[76 79]
+ [60 85]]",0.5382647385984427,,,,,300.0,19.0,
+960,,Random Forest,,25,"[[77 78]
+ [62 83]]",0.5345939933259177,,,,,500.0,1.0,
+961,,Random Forest,,25,"[[78 77]
+ [55 90]]",0.5619577308120133,,,,,500.0,3.0,
+962,,Random Forest,,25,"[[68 87]
+ [54 91]]",0.5331479421579534,,,,,500.0,5.0,
+963,,Random Forest,,25,"[[71 84]
+ [55 90]]",0.539377085650723,,,,,500.0,7.0,
+964,,Random Forest,,25,"[[68 87]
+ [53 92]]",0.5365962180200222,,,,,500.0,9.0,
+965,,Random Forest,,25,"[[77 78]
+ [53 92]]",0.5656284760845384,,,,,500.0,11.0,
+966,,Random Forest,,25,"[[78 77]
+ [57 88]]",0.5550611790878753,,,,,500.0,13.0,
+967,,Random Forest,,25,"[[76 79]
+ [58 87]]",0.5451612903225806,,,,,500.0,15.0,
+968,,Random Forest,,25,"[[74 81]
+ [54 91]]",0.5525027808676307,,,,,500.0,17.0,
+969,,Random Forest,,25,"[[74 81]
+ [58 87]]",0.5387096774193548,,,,,500.0,19.0,
+970,,Random Forest,,25,"[[75 80]
+ [57 88]]",0.5453837597330367,,,,,1000.0,1.0,
+971,,Random Forest,,25,"[[76 79]
+ [60 85]]",0.5382647385984427,,,,,1000.0,3.0,
+972,,Random Forest,,25,"[[73 82]
+ [59 86]]",0.532035595105673,,,,,1000.0,5.0,
+973,,Random Forest,,25,"[[75 80]
+ [52 93]]",0.5626251390433815,,,,,1000.0,7.0,
+974,,Random Forest,,25,"[[79 76]
+ [53 92]]",0.5720800889877642,,,,,1000.0,9.0,
+975,,Random Forest,,25,"[[73 82]
+ [53 92]]",0.5527252502780867,,,,,1000.0,11.0,
+976,,Random Forest,,25,"[[74 81]
+ [56 89]]",0.5456062291434928,,,,,1000.0,13.0,
+977,,Random Forest,,25,"[[76 79]
+ [53 92]]",0.5624026696329255,,,,,1000.0,15.0,
+978,,Random Forest,,25,"[[73 82]
+ [56 89]]",0.5423804226918799,,,,,1000.0,17.0,
+979,,Random Forest,,25,"[[75 80]
+ [56 89]]",0.5488320355951057,,,,,1000.0,19.0,
+980,,Random Forest,,30,"[[93 62]
+ [65 80]]",0.5758620689655172,,,,,100.0,1.0,
+981,,Random Forest,,30,"[[81 74]
+ [63 82]]",0.5440489432703004,,,,,100.0,3.0,
+982,,Random Forest,,30,"[[93 62]
+ [66 79]]",0.5724137931034483,,,,,100.0,5.0,
+983,,Random Forest,,30,"[[84 71]
+ [53 92]]",0.5882091212458287,,,,,100.0,7.0,
+984,,Random Forest,,30,"[[81 74]
+ [61 84]]",0.5509454949944383,,,,,100.0,9.0,
+985,,Random Forest,,30,"[[75 80]
+ [47 98]]",0.5798665183537264,,,,,100.0,11.0,
+986,,Random Forest,,30,"[[79 76]
+ [57 88]]",0.5582869855394883,,,,,100.0,13.0,
+987,,Random Forest,,30,"[[75 80]
+ [60 85]]",0.5350389321468298,,,,,100.0,15.0,
+988,,Random Forest,,30,"[[67 88]
+ [51 94]]",0.5402669632925472,,,,,100.0,17.0,
+989,,Random Forest,,30,"[[76 79]
+ [59 86]]",0.5417130144605116,,,,,100.0,19.0,
+990,,Random Forest,,30,"[[72 83]
+ [60 85]]",0.5253615127919911,,,,,200.0,1.0,
+991,,Random Forest,,30,"[[75 80]
+ [54 91]]",0.5557285873192437,,,,,200.0,3.0,
+992,,Random Forest,,30,"[[82 73]
+ [61 84]]",0.5541713014460512,,,,,200.0,5.0,
+993,,Random Forest,,30,"[[81 74]
+ [56 89]]",0.5681868743047831,,,,,200.0,7.0,
+994,,Random Forest,,30,"[[73 82]
+ [53 92]]",0.5527252502780867,,,,,200.0,9.0,
+995,,Random Forest,,30,"[[84 71]
+ [64 81]]",0.5502780867630701,,,,,200.0,11.0,
+996,,Random Forest,,30,"[[84 71]
+ [54 91]]",0.5847608453837598,,,,,200.0,13.0,
+997,,Random Forest,,30,"[[80 75]
+ [57 88]]",0.5615127919911012,,,,,200.0,15.0,
+998,,Random Forest,,30,"[[77 78]
+ [59 86]]",0.5449388209121246,,,,,200.0,17.0,
+999,,Random Forest,,30,"[[77 78]
+ [56 89]]",0.5552836484983316,,,,,200.0,19.0,
+1000,,Random Forest,,30,"[[82 73]
+ [61 84]]",0.5541713014460512,,,,,300.0,1.0,
+1001,,Random Forest,,30,"[[70 85]
+ [57 88]]",0.5292547274749722,,,,,300.0,3.0,
+1002,,Random Forest,,30,"[[77 78]
+ [56 89]]",0.5552836484983316,,,,,300.0,5.0,
+1003,,Random Forest,,30,"[[78 77]
+ [56 89]]",0.5585094549499443,,,,,300.0,7.0,
+1004,,Random Forest,,30,"[[77 78]
+ [55 90]]",0.5587319243604005,,,,,300.0,9.0,
+1005,,Random Forest,,30,"[[81 74]
+ [58 87]]",0.5612903225806452,,,,,300.0,11.0,
+1006,,Random Forest,,30,"[[79 76]
+ [60 85]]",0.5479421579532815,,,,,300.0,13.0,
+1007,,Random Forest,,30,"[[78 77]
+ [58 87]]",0.5516129032258065,,,,,300.0,15.0,
+1008,,Random Forest,,30,"[[78 77]
+ [65 80]]",0.5274749721913237,,,,,300.0,17.0,
+1009,,Random Forest,,30,"[[77 78]
+ [58 87]]",0.5483870967741935,,,,,300.0,19.0,
+1010,,Random Forest,,30,"[[79 76]
+ [62 83]]",0.5410456062291435,,,,,500.0,1.0,
+1011,,Random Forest,,30,"[[81 74]
+ [61 84]]",0.5509454949944383,,,,,500.0,3.0,
+1012,,Random Forest,,30,"[[75 80]
+ [57 88]]",0.5453837597330367,,,,,500.0,5.0,
+1013,,Random Forest,,30,"[[77 78]
+ [59 86]]",0.5449388209121246,,,,,500.0,7.0,
+1014,,Random Forest,,30,"[[77 78]
+ [58 87]]",0.5483870967741935,,,,,500.0,9.0,
+1015,,Random Forest,,30,"[[79 76]
+ [60 85]]",0.5479421579532815,,,,,500.0,11.0,
+1016,,Random Forest,,30,"[[80 75]
+ [63 82]]",0.5408231368186874,,,,,500.0,13.0,
+1017,,Random Forest,,30,"[[82 73]
+ [61 84]]",0.5541713014460512,,,,,500.0,15.0,
+1018,,Random Forest,,30,"[[78 77]
+ [59 86]]",0.5481646273637374,,,,,500.0,17.0,
+1019,,Random Forest,,30,"[[77 78]
+ [65 80]]",0.5242491657397108,,,,,500.0,19.0,
+1020,,Random Forest,,30,"[[76 79]
+ [59 86]]",0.5417130144605116,,,,,1000.0,1.0,
+1021,,Random Forest,,30,"[[74 81]
+ [57 88]]",0.5421579532814238,,,,,1000.0,3.0,
+1022,,Random Forest,,30,"[[75 80]
+ [60 85]]",0.5350389321468298,,,,,1000.0,5.0,
+1023,,Random Forest,,30,"[[77 78]
+ [60 85]]",0.5414905450500557,,,,,1000.0,7.0,
+1024,,Random Forest,,30,"[[77 78]
+ [56 89]]",0.5552836484983316,,,,,1000.0,9.0,
+1025,,Random Forest,,30,"[[77 78]
+ [58 87]]",0.5483870967741935,,,,,1000.0,11.0,
+1026,,Random Forest,,30,"[[76 79]
+ [58 87]]",0.5451612903225806,,,,,1000.0,13.0,
+1027,,Random Forest,,30,"[[76 79]
+ [59 86]]",0.5417130144605116,,,,,1000.0,15.0,
+1028,,Random Forest,,30,"[[78 77]
+ [59 86]]",0.5481646273637374,,,,,1000.0,17.0,
+1029,,Random Forest,,30,"[[78 77]
+ [61 84]]",0.5412680756395996,,,,,1000.0,19.0,
+1030,,Random Forest,,35,"[[95 60]
+ [65 80]]",0.582313681868743,,,,,100.0,1.0,
+1031,,Random Forest,,35,"[[69 86]
+ [54 91]]",0.5363737486095662,,,,,100.0,3.0,
+1032,,Random Forest,,35,"[[72 83]
+ [47 98]]",0.5701890989988876,,,,,100.0,5.0,
+1033,,Random Forest,,35,"[[82 73]
+ [67 78]]",0.5334816462736374,,,,,100.0,7.0,
+1034,,Random Forest,,35,"[[78 77]
+ [59 86]]",0.5481646273637374,,,,,100.0,9.0,
+1035,,Random Forest,,35,"[[72 83]
+ [59 86]]",0.52880978865406,,,,,100.0,11.0,
+1036,,Random Forest,,35,"[[77 78]
+ [56 89]]",0.5552836484983316,,,,,100.0,13.0,
+1037,,Random Forest,,35,"[[81 74]
+ [60 85]]",0.5543937708565072,,,,,100.0,15.0,
+1038,,Random Forest,,35,"[[89 66]
+ [68 77]]",0.5526140155728587,,,,,100.0,17.0,
+1039,,Random Forest,,35,"[[73 82]
+ [51 94]]",0.5596218020022247,,,,,100.0,19.0,
+1040,,Random Forest,,35,"[[83 72]
+ [64 81]]",0.5470522803114571,,,,,200.0,1.0,
+1041,,Random Forest,,35,"[[81 74]
+ [57 88]]",0.5647385984427141,,,,,200.0,3.0,
+1042,,Random Forest,,35,"[[78 77]
+ [56 89]]",0.5585094549499443,,,,,200.0,5.0,
+1043,,Random Forest,,35,"[[79 76]
+ [54 91]]",0.5686318131256953,,,,,200.0,7.0,
+1044,,Random Forest,,35,"[[87 68]
+ [62 83]]",0.5668520578420467,,,,,200.0,9.0,
+1045,,Random Forest,,35,"[[77 78]
+ [54 91]]",0.5621802002224694,,,,,200.0,11.0,
+1046,,Random Forest,,35,"[[79 76]
+ [60 85]]",0.5479421579532815,,,,,200.0,13.0,
+1047,,Random Forest,,35,"[[75 80]
+ [58 87]]",0.5419354838709678,,,,,200.0,15.0,
+1048,,Random Forest,,35,"[[81 74]
+ [62 83]]",0.5474972191323693,,,,,200.0,17.0,
+1049,,Random Forest,,35,"[[80 75]
+ [58 87]]",0.5580645161290323,,,,,200.0,19.0,
+1050,,Random Forest,,35,"[[77 78]
+ [61 84]]",0.5380422691879867,,,,,300.0,1.0,
+1051,,Random Forest,,35,"[[77 78]
+ [57 88]]",0.5518353726362625,,,,,300.0,3.0,
+1052,,Random Forest,,35,"[[76 79]
+ [59 86]]",0.5417130144605116,,,,,300.0,5.0,
+1053,,Random Forest,,35,"[[82 73]
+ [57 88]]",0.567964404894327,,,,,300.0,7.0,
+1054,,Random Forest,,35,"[[77 78]
+ [58 87]]",0.5483870967741935,,,,,300.0,9.0,
+1055,,Random Forest,,35,"[[84 71]
+ [56 89]]",0.5778642936596219,,,,,300.0,11.0,
+1056,,Random Forest,,35,"[[82 73]
+ [60 85]]",0.5576195773081201,,,,,300.0,13.0,
+1057,,Random Forest,,35,"[[84 71]
+ [59 86]]",0.5675194660734149,,,,,300.0,15.0,
+1058,,Random Forest,,35,"[[79 76]
+ [60 85]]",0.5479421579532815,,,,,300.0,17.0,
+1059,,Random Forest,,35,"[[83 72]
+ [64 81]]",0.5470522803114571,,,,,300.0,19.0,
+1060,,Random Forest,,35,"[[77 78]
+ [64 81]]",0.5276974416017798,,,,,500.0,1.0,
+1061,,Random Forest,,35,"[[80 75]
+ [63 82]]",0.5408231368186874,,,,,500.0,3.0,
+1062,,Random Forest,,35,"[[81 74]
+ [61 84]]",0.5509454949944383,,,,,500.0,5.0,
+1063,,Random Forest,,35,"[[79 76]
+ [61 84]]",0.5444938820912125,,,,,500.0,7.0,
+1064,,Random Forest,,35,"[[79 76]
+ [58 87]]",0.5548387096774194,,,,,500.0,9.0,
+1065,,Random Forest,,35,"[[82 73]
+ [59 86]]",0.561067853170189,,,,,500.0,11.0,
+1066,,Random Forest,,35,"[[78 77]
+ [57 88]]",0.5550611790878753,,,,,500.0,13.0,
+1067,,Random Forest,,35,"[[79 76]
+ [62 83]]",0.5410456062291435,,,,,500.0,15.0,
+1068,,Random Forest,,35,"[[76 79]
+ [59 86]]",0.5417130144605116,,,,,500.0,17.0,
+1069,,Random Forest,,35,"[[78 77]
+ [62 83]]",0.5378197997775306,,,,,500.0,19.0,
+1070,,Random Forest,,35,"[[80 75]
+ [63 82]]",0.5408231368186874,,,,,1000.0,1.0,
+1071,,Random Forest,,35,"[[75 80]
+ [56 89]]",0.5488320355951057,,,,,1000.0,3.0,
+1072,,Random Forest,,35,"[[77 78]
+ [57 88]]",0.5518353726362625,,,,,1000.0,5.0,
+1073,,Random Forest,,35,"[[78 77]
+ [57 88]]",0.5550611790878753,,,,,1000.0,7.0,
+1074,,Random Forest,,35,"[[84 71]
+ [59 86]]",0.5675194660734149,,,,,1000.0,9.0,
+1075,,Random Forest,,35,"[[80 75]
+ [57 88]]",0.5615127919911012,,,,,1000.0,11.0,
+1076,,Random Forest,,35,"[[83 72]
+ [59 86]]",0.5642936596218019,,,,,1000.0,13.0,
+1077,,Random Forest,,35,"[[77 78]
+ [60 85]]",0.5414905450500557,,,,,1000.0,15.0,
+1078,,Random Forest,,35,"[[80 75]
+ [58 87]]",0.5580645161290323,,,,,1000.0,17.0,
+1079,,Random Forest,,35,"[[80 75]
+ [64 81]]",0.5373748609566185,,,,,1000.0,19.0,
+1080,,Random Forest,,40,"[[76 79]
+ [61 84]]",0.5348164627363738,,,,,100.0,1.0,
+1081,,Random Forest,,40,"[[83 72]
+ [64 81]]",0.5470522803114571,,,,,100.0,3.0,
+1082,,Random Forest,,40,"[[82 73]
+ [58 87]]",0.5645161290322581,,,,,100.0,5.0,
+1083,,Random Forest,,40,"[[77 78]
+ [57 88]]",0.5518353726362625,,,,,100.0,7.0,
+1084,,Random Forest,,40,"[[75 80]
+ [54 91]]",0.5557285873192437,,,,,100.0,9.0,
+1085,,Random Forest,,40,"[[82 73]
+ [60 85]]",0.5576195773081201,,,,,100.0,11.0,
+1086,,Random Forest,,40,"[[76 79]
+ [57 88]]",0.5486095661846496,,,,,100.0,13.0,
+1087,,Random Forest,,40,"[[68 87]
+ [50 95]]",0.5469410456062291,,,,,100.0,15.0,
+1088,,Random Forest,,40,"[[93 62]
+ [68 77]]",0.5655172413793103,,,,,100.0,17.0,
+1089,,Random Forest,,40,"[[85 70]
+ [65 80]]",0.550055617352614,,,,,100.0,19.0,
+1090,,Random Forest,,40,"[[83 72]
+ [59 86]]",0.5642936596218019,,,,,200.0,1.0,
+1091,,Random Forest,,40,"[[73 82]
+ [55 90]]",0.5458286985539488,,,,,200.0,3.0,
+1092,,Random Forest,,40,"[[73 82]
+ [59 86]]",0.532035595105673,,,,,200.0,5.0,
+1093,,Random Forest,,40,"[[82 73]
+ [57 88]]",0.567964404894327,,,,,200.0,7.0,
+1094,,Random Forest,,40,"[[81 74]
+ [60 85]]",0.5543937708565072,,,,,200.0,9.0,
+1095,,Random Forest,,40,"[[79 76]
+ [51 94]]",0.5789766407119021,,,,,200.0,11.0,
+1096,,Random Forest,,40,"[[76 79]
+ [60 85]]",0.5382647385984427,,,,,200.0,13.0,
+1097,,Random Forest,,40,"[[79 76]
+ [60 85]]",0.5479421579532815,,,,,200.0,15.0,
+1098,,Random Forest,,40,"[[85 70]
+ [61 84]]",0.5638487208008899,,,,,200.0,17.0,
+1099,,Random Forest,,40,"[[84 71]
+ [68 77]]",0.5364849833147942,,,,,200.0,19.0,
+1100,,Random Forest,,40,"[[84 71]
+ [65 80]]",0.5468298109010012,,,,,300.0,1.0,
+1101,,Random Forest,,40,"[[79 76]
+ [56 89]]",0.5617352614015574,,,,,300.0,3.0,
+1102,,Random Forest,,40,"[[84 71]
+ [63 82]]",0.5537263626251391,,,,,300.0,5.0,
+1103,,Random Forest,,40,"[[82 73]
+ [57 88]]",0.567964404894327,,,,,300.0,7.0,
+1104,,Random Forest,,40,"[[74 81]
+ [57 88]]",0.5421579532814238,,,,,300.0,9.0,
+1105,,Random Forest,,40,"[[82 73]
+ [55 90]]",0.574860956618465,,,,,300.0,11.0,
+1106,,Random Forest,,40,"[[78 77]
+ [58 87]]",0.5516129032258065,,,,,300.0,13.0,
+1107,,Random Forest,,40,"[[83 72]
+ [61 84]]",0.5573971078976641,,,,,300.0,15.0,
+1108,,Random Forest,,40,"[[84 71]
+ [64 81]]",0.5502780867630701,,,,,300.0,17.0,
+1109,,Random Forest,,40,"[[83 72]
+ [59 86]]",0.5642936596218019,,,,,300.0,19.0,
+1110,,Random Forest,,40,"[[83 72]
+ [62 83]]",0.5539488320355951,,,,,500.0,1.0,
+1111,,Random Forest,,40,"[[75 80]
+ [56 89]]",0.5488320355951057,,,,,500.0,3.0,
+1112,,Random Forest,,40,"[[79 76]
+ [56 89]]",0.5617352614015574,,,,,500.0,5.0,
+1113,,Random Forest,,40,"[[78 77]
+ [57 88]]",0.5550611790878753,,,,,500.0,7.0,
+1114,,Random Forest,,40,"[[82 73]
+ [56 89]]",0.571412680756396,,,,,500.0,9.0,
+1115,,Random Forest,,40,"[[85 70]
+ [57 88]]",0.5776418242491657,,,,,500.0,11.0,
+1116,,Random Forest,,40,"[[79 76]
+ [57 88]]",0.5582869855394883,,,,,500.0,13.0,
+1117,,Random Forest,,40,"[[85 70]
+ [64 81]]",0.553503893214683,,,,,500.0,15.0,
+1118,,Random Forest,,40,"[[78 77]
+ [56 89]]",0.5585094549499443,,,,,500.0,17.0,
+1119,,Random Forest,,40,"[[84 71]
+ [65 80]]",0.5468298109010012,,,,,500.0,19.0,
+1120,,Random Forest,,40,"[[81 74]
+ [62 83]]",0.5474972191323693,,,,,1000.0,1.0,
+1121,,Random Forest,,40,"[[79 76]
+ [60 85]]",0.5479421579532815,,,,,1000.0,3.0,
+1122,,Random Forest,,40,"[[78 77]
+ [58 87]]",0.5516129032258065,,,,,1000.0,5.0,
+1123,,Random Forest,,40,"[[78 77]
+ [59 86]]",0.5481646273637374,,,,,1000.0,7.0,
+1124,,Random Forest,,40,"[[81 74]
+ [60 85]]",0.5543937708565072,,,,,1000.0,9.0,
+1125,,Random Forest,,40,"[[79 76]
+ [59 86]]",0.5513904338153504,,,,,1000.0,11.0,
+1126,,Random Forest,,40,"[[86 69]
+ [61 84]]",0.5670745272525028,,,,,1000.0,13.0,
+1127,,Random Forest,,40,"[[80 75]
+ [60 85]]",0.5511679644048944,,,,,1000.0,15.0,
+1128,,Random Forest,,40,"[[84 71]
+ [61 84]]",0.560622914349277,,,,,1000.0,17.0,
+1129,,Random Forest,,40,"[[88 67]
+ [65 80]]",0.5597330367074527,,,,,1000.0,19.0,
+1130,,Random Forest,,45,"[[100  55]
+ [ 68  77]]",0.5880978865406006,,,,,100.0,1.0,
+1131,,Random Forest,,45,"[[80 75]
+ [65 80]]",0.5339265850945495,,,,,100.0,3.0,
+1132,,Random Forest,,45,"[[89 66]
+ [66 79]]",0.5595105672969967,,,,,100.0,5.0,
+1133,,Random Forest,,45,"[[74 81]
+ [53 92]]",0.5559510567296997,,,,,100.0,7.0,
+1134,,Random Forest,,45,"[[83 72]
+ [67 78]]",0.5367074527252502,,,,,100.0,9.0,
+1135,,Random Forest,,45,"[[82 73]
+ [56 89]]",0.571412680756396,,,,,100.0,11.0,
+1136,,Random Forest,,45,"[[77 78]
+ [61 84]]",0.5380422691879867,,,,,100.0,13.0,
+1137,,Random Forest,,45,"[[84 71]
+ [56 89]]",0.5778642936596219,,,,,100.0,15.0,
+1138,,Random Forest,,45,"[[84 71]
+ [56 89]]",0.5778642936596219,,,,,100.0,17.0,
+1139,,Random Forest,,45,"[[80 75]
+ [63 82]]",0.5408231368186874,,,,,100.0,19.0,
+1140,,Random Forest,,45,"[[81 74]
+ [56 89]]",0.5681868743047831,,,,,200.0,1.0,
+1141,,Random Forest,,45,"[[71 84]
+ [54 91]]",0.542825361512792,,,,,200.0,3.0,
+1142,,Random Forest,,45,"[[81 74]
+ [59 86]]",0.5578420467185762,,,,,200.0,5.0,
+1143,,Random Forest,,45,"[[92 63]
+ [62 83]]",0.5829810901001112,,,,,200.0,7.0,
+1144,,Random Forest,,45,"[[91 64]
+ [63 82]]",0.5763070077864294,,,,,200.0,9.0,
+1145,,Random Forest,,45,"[[77 78]
+ [55 90]]",0.5587319243604005,,,,,200.0,11.0,
+1146,,Random Forest,,45,"[[84 71]
+ [69 76]]",0.5330367074527254,,,,,200.0,13.0,
+1147,,Random Forest,,45,"[[83 72]
+ [66 79]]",0.5401557285873192,,,,,200.0,15.0,
+1148,,Random Forest,,45,"[[95 60]
+ [73 72]]",0.5547274749721913,,,,,200.0,17.0,
+1149,,Random Forest,,45,"[[91 64]
+ [70 75]]",0.5521690767519466,,,,,200.0,19.0,
+1150,,Random Forest,,45,"[[82 73]
+ [64 81]]",0.5438264738598443,,,,,300.0,1.0,
+1151,,Random Forest,,45,"[[81 74]
+ [60 85]]",0.5543937708565072,,,,,300.0,3.0,
+1152,,Random Forest,,45,"[[82 73]
+ [60 85]]",0.5576195773081201,,,,,300.0,5.0,
+1153,,Random Forest,,45,"[[83 72]
+ [62 83]]",0.5539488320355951,,,,,300.0,7.0,
+1154,,Random Forest,,45,"[[87 68]
+ [57 88]]",0.5840934371523915,,,,,300.0,9.0,
+1155,,Random Forest,,45,"[[85 70]
+ [55 90]]",0.5845383759733036,,,,,300.0,11.0,
+1156,,Random Forest,,45,"[[88 67]
+ [61 84]]",0.5735261401557286,,,,,300.0,13.0,
+1157,,Random Forest,,45,"[[78 77]
+ [63 82]]",0.5343715239154616,,,,,300.0,15.0,
+1158,,Random Forest,,45,"[[87 68]
+ [64 81]]",0.5599555061179088,,,,,300.0,17.0,
+1159,,Random Forest,,45,"[[94 61]
+ [69 76]]",0.5652947719688544,,,,,300.0,19.0,
+1160,,Random Forest,,45,"[[84 71]
+ [65 80]]",0.5468298109010012,,,,,500.0,1.0,
+1161,,Random Forest,,45,"[[82 73]
+ [59 86]]",0.561067853170189,,,,,500.0,3.0,
+1162,,Random Forest,,45,"[[80 75]
+ [62 83]]",0.5442714126807564,,,,,500.0,5.0,
+1163,,Random Forest,,45,"[[82 73]
+ [59 86]]",0.561067853170189,,,,,500.0,7.0,
+1164,,Random Forest,,45,"[[82 73]
+ [57 88]]",0.567964404894327,,,,,500.0,9.0,
+1165,,Random Forest,,45,"[[83 72]
+ [60 85]]",0.560845383759733,,,,,500.0,11.0,
+1166,,Random Forest,,45,"[[77 78]
+ [58 87]]",0.5483870967741935,,,,,500.0,13.0,
+1167,,Random Forest,,45,"[[83 72]
+ [61 84]]",0.5573971078976641,,,,,500.0,15.0,
+1168,,Random Forest,,45,"[[92 63]
+ [67 78]]",0.5657397107897664,,,,,500.0,17.0,
+1169,,Random Forest,,45,"[[85 70]
+ [66 79]]",0.546607341490545,,,,,500.0,19.0,
+1170,,Random Forest,,45,"[[79 76]
+ [62 83]]",0.5410456062291435,,,,,1000.0,1.0,
+1171,,Random Forest,,45,"[[84 71]
+ [58 87]]",0.5709677419354839,,,,,1000.0,3.0,
+1172,,Random Forest,,45,"[[86 69]
+ [57 88]]",0.5808676307007786,,,,,1000.0,5.0,
+1173,,Random Forest,,45,"[[83 72]
+ [59 86]]",0.5642936596218019,,,,,1000.0,7.0,
+1174,,Random Forest,,45,"[[81 74]
+ [59 86]]",0.5578420467185762,,,,,1000.0,9.0,
+1175,,Random Forest,,45,"[[86 69]
+ [60 85]]",0.5705228031145717,,,,,1000.0,11.0,
+1176,,Random Forest,,45,"[[85 70]
+ [63 82]]",0.5569521690767519,,,,,1000.0,13.0,
+1177,,Random Forest,,45,"[[82 73]
+ [60 85]]",0.5576195773081201,,,,,1000.0,15.0,
+1178,,Random Forest,,45,"[[85 70]
+ [64 81]]",0.553503893214683,,,,,1000.0,17.0,
+1179,,Random Forest,,45,"[[86 69]
+ [65 80]]",0.553281423804227,,,,,1000.0,19.0,
+1180,,Random Forest,,50,"[[87 68]
+ [77 68]]",0.5151279199110123,,,,,100.0,1.0,
+1181,,Random Forest,,50,"[[81 74]
+ [62 83]]",0.5474972191323693,,,,,100.0,3.0,
+1182,,Random Forest,,50,"[[78 77]
+ [56 89]]",0.5585094549499443,,,,,100.0,5.0,
+1183,,Random Forest,,50,"[[92 63]
+ [61 84]]",0.5864293659621802,,,,,100.0,7.0,
+1184,,Random Forest,,50,"[[96 59]
+ [62 83]]",0.5958843159065629,,,,,100.0,9.0,
+1185,,Random Forest,,50,"[[76 79]
+ [55 90]]",0.5555061179087875,,,,,100.0,11.0,
+1186,,Random Forest,,50,"[[83 72]
+ [62 83]]",0.5539488320355951,,,,,100.0,13.0,
+1187,,Random Forest,,50,"[[90 65]
+ [66 79]]",0.5627363737486095,,,,,100.0,15.0,
+1188,,Random Forest,,50,"[[90 65]
+ [67 78]]",0.5592880978865405,,,,,100.0,17.0,
+1189,,Random Forest,,50,"[[87 68]
+ [59 86]]",0.5771968854282535,,,,,100.0,19.0,
+1190,,Random Forest,,50,"[[87 68]
+ [67 78]]",0.5496106785317019,,,,,200.0,1.0,
+1191,,Random Forest,,50,"[[81 74]
+ [63 82]]",0.5440489432703004,,,,,200.0,3.0,
+1192,,Random Forest,,50,"[[84 71]
+ [60 85]]",0.564071190211346,,,,,200.0,5.0,
+1193,,Random Forest,,50,"[[87 68]
+ [62 83]]",0.5668520578420467,,,,,200.0,7.0,
+1194,,Random Forest,,50,"[[88 67]
+ [67 78]]",0.5528364849833147,,,,,200.0,9.0,
+1195,,Random Forest,,50,"[[85 70]
+ [57 88]]",0.5776418242491657,,,,,200.0,11.0,
+1196,,Random Forest,,50,"[[85 70]
+ [59 86]]",0.5707452725250277,,,,,200.0,13.0,
+1197,,Random Forest,,50,"[[91 64]
+ [66 79]]",0.5659621802002225,,,,,200.0,15.0,
+1198,,Random Forest,,50,"[[89 66]
+ [66 79]]",0.5595105672969967,,,,,200.0,17.0,
+1199,,Random Forest,,50,"[[91 64]
+ [65 80]]",0.5694104560622915,,,,,200.0,19.0,
+1200,,Random Forest,,50,"[[87 68]
+ [64 81]]",0.5599555061179088,,,,,300.0,1.0,
+1201,,Random Forest,,50,"[[80 75]
+ [60 85]]",0.5511679644048944,,,,,300.0,3.0,
+1202,,Random Forest,,50,"[[92 63]
+ [60 85]]",0.5898776418242492,,,,,300.0,5.0,
+1203,,Random Forest,,50,"[[87 68]
+ [60 85]]",0.5737486095661847,,,,,300.0,7.0,
+1204,,Random Forest,,50,"[[83 72]
+ [61 84]]",0.5573971078976641,,,,,300.0,9.0,
+1205,,Random Forest,,50,"[[86 69]
+ [67 78]]",0.546384872080089,,,,,300.0,11.0,
+1206,,Random Forest,,50,"[[83 72]
+ [59 86]]",0.5642936596218019,,,,,300.0,13.0,
+1207,,Random Forest,,50,"[[91 64]
+ [69 76]]",0.5556173526140157,,,,,300.0,15.0,
+1208,,Random Forest,,50,"[[90 65]
+ [71 74]]",0.5454949944382648,,,,,300.0,17.0,
+1209,,Random Forest,,50,"[[86 69]
+ [63 82]]",0.5601779755283649,,,,,300.0,19.0,
+1210,,Random Forest,,50,"[[83 72]
+ [59 86]]",0.5642936596218019,,,,,500.0,1.0,
+1211,,Random Forest,,50,"[[79 76]
+ [57 88]]",0.5582869855394883,,,,,500.0,3.0,
+1212,,Random Forest,,50,"[[86 69]
+ [59 86]]",0.5739710789766407,,,,,500.0,5.0,
+1213,,Random Forest,,50,"[[85 70]
+ [61 84]]",0.5638487208008899,,,,,500.0,7.0,
+1214,,Random Forest,,50,"[[81 74]
+ [58 87]]",0.5612903225806452,,,,,500.0,9.0,
+1215,,Random Forest,,50,"[[87 68]
+ [61 84]]",0.5703003337041157,,,,,500.0,11.0,
+1216,,Random Forest,,50,"[[78 77]
+ [59 86]]",0.5481646273637374,,,,,500.0,13.0,
+1217,,Random Forest,,50,"[[83 72]
+ [62 83]]",0.5539488320355951,,,,,500.0,15.0,
+1218,,Random Forest,,50,"[[78 77]
+ [63 82]]",0.5343715239154616,,,,,500.0,17.0,
+1219,,Random Forest,,50,"[[94 61]
+ [68 77]]",0.5687430478309232,,,,,500.0,19.0,
+1220,,Random Forest,,50,"[[82 73]
+ [61 84]]",0.5541713014460512,,,,,1000.0,1.0,
+1221,,Random Forest,,50,"[[81 74]
+ [61 84]]",0.5509454949944383,,,,,1000.0,3.0,
+1222,,Random Forest,,50,"[[79 76]
+ [59 86]]",0.5513904338153504,,,,,1000.0,5.0,
+1223,,Random Forest,,50,"[[82 73]
+ [60 85]]",0.5576195773081201,,,,,1000.0,7.0,
+1224,,Random Forest,,50,"[[77 78]
+ [60 85]]",0.5414905450500557,,,,,1000.0,9.0,
+1225,,Random Forest,,50,"[[82 73]
+ [56 89]]",0.571412680756396,,,,,1000.0,11.0,
+1226,,Random Forest,,50,"[[75 80]
+ [57 88]]",0.5453837597330367,,,,,1000.0,13.0,
+1227,,Random Forest,,50,"[[80 75]
+ [63 82]]",0.5408231368186874,,,,,1000.0,15.0,
+1228,,Random Forest,,50,"[[88 67]
+ [65 80]]",0.5597330367074527,,,,,1000.0,17.0,
+1229,,Random Forest,,50,"[[83 72]
+ [62 83]]",0.5539488320355951,,,,,1000.0,19.0,
+1230,,Support Vector Classifier,0.01,5,"[[109  46]
+ [115  30]]",0.4550611790878754,,,,,,,linear
+1231,,Support Vector Classifier,0.01,5,"[[155   0]
+ [145   0]]",0.5,,,,,,,poly
+1232,,Support Vector Classifier,0.01,5,"[[155   0]
+ [145   0]]",0.5,,,,,,,rbf
+1233,,Support Vector Classifier,0.01,5,"[[155   0]
+ [145   0]]",0.5,,,,,,,sigmoid
+1234,,Support Vector Classifier,0.1,5,"[[101  54]
+ [ 98  47]]",0.4878754171301446,,,,,,,linear
+1235,,Support Vector Classifier,0.1,5,"[[109  46]
+ [115  30]]",0.4550611790878754,,,,,,,poly
+1236,,Support Vector Classifier,0.1,5,"[[111  44]
+ [118  27]]",0.45116796440489426,,,,,,,rbf
+1237,,Support Vector Classifier,0.1,5,"[[155   0]
+ [145   0]]",0.5,,,,,,,sigmoid
+1238,,Support Vector Classifier,1.0,5,"[[97 58]
+ [94 51]]",0.4887652947719688,,,,,,,linear
+1239,,Support Vector Classifier,1.0,5,"[[85 70]
+ [74 71]]",0.5190211345939932,,,,,,,poly
+1240,,Support Vector Classifier,1.0,5,"[[99 56]
+ [93 52]]",0.49866518353726363,,,,,,,rbf
+1241,,Support Vector Classifier,1.0,5,"[[ 21 134]
+ [  6 139]]",0.5470522803114571,,,,,,,sigmoid
+1242,,Support Vector Classifier,10.0,5,"[[97 58]
+ [94 51]]",0.4887652947719688,,,,,,,linear
+1243,,Support Vector Classifier,10.0,5,"[[92 63]
+ [79 66]]",0.5243604004449388,,,,,,,poly
+1244,,Support Vector Classifier,10.0,5,"[[105  50]
+ [109  36]]",0.46284760845383766,,,,,,,rbf
+1245,,Support Vector Classifier,10.0,5,"[[ 36 119]
+ [  9 136]]",0.5850945494994438,,,,,,,sigmoid
+1246,,Support Vector Classifier,100.0,5,"[[97 58]
+ [94 51]]",0.4887652947719688,,,,,,,linear
+1247,,Support Vector Classifier,100.0,5,"[[113  42]
+ [106  39]]",0.49899888765294764,,,,,,,poly
+1248,,Support Vector Classifier,100.0,5,"[[112  43]
+ [115  30]]",0.46473859844271415,,,,,,,rbf
+1249,,Support Vector Classifier,100.0,5,"[[ 36 119]
+ [ 10 135]]",0.5816462736373749,,,,,,,sigmoid
+1250,,Support Vector Classifier,0.01,10,"[[114  41]
+ [107  38]]",0.4987764182424917,,,,,,,linear
+1251,,Support Vector Classifier,0.01,10,"[[138  17]
+ [122  23]]",0.5244716351501669,,,,,,,poly
+1252,,Support Vector Classifier,0.01,10,"[[155   0]
+ [145   0]]",0.5,,,,,,,rbf
+1253,,Support Vector Classifier,0.01,10,"[[155   0]
+ [145   0]]",0.5,,,,,,,sigmoid
+1254,,Support Vector Classifier,0.1,10,"[[101  54]
+ [ 95  50]]",0.4982202447163515,,,,,,,linear
+1255,,Support Vector Classifier,0.1,10,"[[119  36]
+ [113  32]]",0.49421579532814236,,,,,,,poly
+1256,,Support Vector Classifier,0.1,10,"[[120  35]
+ [ 93  52]]",0.5664071190211346,,,,,,,rbf
+1257,,Support Vector Classifier,0.1,10,"[[120  35]
+ [ 97  48]]",0.5526140155728587,,,,,,,sigmoid
+1258,,Support Vector Classifier,1.0,10,"[[96 59]
+ [94 51]]",0.485539488320356,,,,,,,linear
+1259,,Support Vector Classifier,1.0,10,"[[113  42]
+ [104  41]]",0.5058954393770856,,,,,,,poly
+1260,,Support Vector Classifier,1.0,10,"[[117  38]
+ [ 87  58]]",0.5774193548387097,,,,,,,rbf
+1261,,Support Vector Classifier,1.0,10,"[[129  26]
+ [110  35]]",0.5368186874304783,,,,,,,sigmoid
+1262,,Support Vector Classifier,10.0,10,"[[94 61]
+ [90 55]]",0.49288097886540605,,,,,,,linear
+1263,,Support Vector Classifier,10.0,10,"[[116  39]
+ [104  41]]",0.5155728587319244,,,,,,,poly
+1264,,Support Vector Classifier,10.0,10,"[[132  23]
+ [113  32]]",0.5361512791991101,,,,,,,rbf
+1265,,Support Vector Classifier,10.0,10,"[[127  28]
+ [110  35]]",0.5303670745272525,,,,,,,sigmoid
+1266,,Support Vector Classifier,100.0,10,"[[93 62]
+ [92 53]]",0.4827586206896552,,,,,,,linear
+1267,,Support Vector Classifier,100.0,10,"[[120  35]
+ [111  34]]",0.5043381535038932,,,,,,,poly
+1268,,Support Vector Classifier,100.0,10,"[[143  12]
+ [125  20]]",0.5302558398220245,,,,,,,rbf
+1269,,Support Vector Classifier,100.0,10,"[[127  28]
+ [110  35]]",0.5303670745272525,,,,,,,sigmoid
+1270,,Support Vector Classifier,0.01,15,"[[114  41]
+ [107  38]]",0.4987764182424917,,,,,,,linear
+1271,,Support Vector Classifier,0.01,15,"[[138  17]
+ [122  23]]",0.5244716351501669,,,,,,,poly
+1272,,Support Vector Classifier,0.01,15,"[[155   0]
+ [145   0]]",0.5,,,,,,,rbf
+1273,,Support Vector Classifier,0.01,15,"[[155   0]
+ [145   0]]",0.5,,,,,,,sigmoid
+1274,,Support Vector Classifier,0.1,15,"[[101  54]
+ [ 95  50]]",0.4982202447163515,,,,,,,linear
+1275,,Support Vector Classifier,0.1,15,"[[118  37]
+ [113  32]]",0.49098998887652945,,,,,,,poly
+1276,,Support Vector Classifier,0.1,15,"[[120  35]
+ [ 93  52]]",0.5664071190211346,,,,,,,rbf
+1277,,Support Vector Classifier,0.1,15,"[[125  30]
+ [104  41]]",0.5446051167964404,,,,,,,sigmoid
+1278,,Support Vector Classifier,1.0,15,"[[96 59]
+ [95 50]]",0.482091212458287,,,,,,,linear
+1279,,Support Vector Classifier,1.0,15,"[[112  43]
+ [103  42]]",0.5061179087875418,,,,,,,poly
+1280,,Support Vector Classifier,1.0,15,"[[116  39]
+ [ 86  59]]",0.5776418242491658,,,,,,,rbf
+1281,,Support Vector Classifier,1.0,15,"[[128  27]
+ [110  35]]",0.5335928809788654,,,,,,,sigmoid
+1282,,Support Vector Classifier,10.0,15,"[[97 58]
+ [95 50]]",0.48531701890989987,,,,,,,linear
+1283,,Support Vector Classifier,10.0,15,"[[117  38]
+ [100  45]]",0.5325917686318131,,,,,,,poly
+1284,,Support Vector Classifier,10.0,15,"[[132  23]
+ [113  32]]",0.5361512791991101,,,,,,,rbf
+1285,,Support Vector Classifier,10.0,15,"[[127  28]
+ [110  35]]",0.5303670745272525,,,,,,,sigmoid
+1286,,Support Vector Classifier,100.0,15,"[[101  54]
+ [ 99  46]]",0.4844271412680756,,,,,,,linear
+1287,,Support Vector Classifier,100.0,15,"[[117  38]
+ [108  37]]",0.5050055617352615,,,,,,,poly
+1288,,Support Vector Classifier,100.0,15,"[[143  12]
+ [125  20]]",0.5302558398220245,,,,,,,rbf
+1289,,Support Vector Classifier,100.0,15,"[[127  28]
+ [110  35]]",0.5303670745272525,,,,,,,sigmoid
+1290,,Support Vector Classifier,0.01,20,"[[113  42]
+ [105  40]]",0.5024471635150167,,,,,,,linear
+1291,,Support Vector Classifier,0.01,20,"[[155   0]
+ [145   0]]",0.5,,,,,,,poly
+1292,,Support Vector Classifier,0.01,20,"[[155   0]
+ [145   0]]",0.5,,,,,,,rbf
+1293,,Support Vector Classifier,0.01,20,"[[155   0]
+ [145   0]]",0.5,,,,,,,sigmoid
+1294,,Support Vector Classifier,0.1,20,"[[100  55]
+ [ 95  50]]",0.4949944382647386,,,,,,,linear
+1295,,Support Vector Classifier,0.1,20,"[[155   0]
+ [145   0]]",0.5,,,,,,,poly
+1296,,Support Vector Classifier,0.1,20,"[[155   0]
+ [145   0]]",0.5,,,,,,,rbf
+1297,,Support Vector Classifier,0.1,20,"[[155   0]
+ [145   0]]",0.5,,,,,,,sigmoid
+1298,,Support Vector Classifier,1.0,20,"[[97 58]
+ [94 51]]",0.4887652947719688,,,,,,,linear
+1299,,Support Vector Classifier,1.0,20,"[[154   1]
+ [143   2]]",0.5036707452725251,,,,,,,poly
+1300,,Support Vector Classifier,1.0,20,"[[149   6]
+ [142   3]]",0.4909899888765295,,,,,,,rbf
+1301,,Support Vector Classifier,1.0,20,"[[149   6]
+ [142   3]]",0.4909899888765295,,,,,,,sigmoid
+1302,,Support Vector Classifier,10.0,20,"[[98 57]
+ [93 52]]",0.4954393770856508,,,,,,,linear
+1303,,Support Vector Classifier,10.0,20,"[[150   5]
+ [142   3]]",0.4942157953281424,,,,,,,poly
+1304,,Support Vector Classifier,10.0,20,"[[149   6]
+ [142   3]]",0.4909899888765295,,,,,,,rbf
+1305,,Support Vector Classifier,10.0,20,"[[134  21]
+ [123  22]]",0.5081201334816463,,,,,,,sigmoid
+1306,,Support Vector Classifier,100.0,20,"[[99 56]
+ [94 51]]",0.49521690767519466,,,,,,,linear
+1307,,Support Vector Classifier,100.0,20,"[[132  23]
+ [133  12]]",0.46718576195773076,,,,,,,poly
+1308,,Support Vector Classifier,100.0,20,"[[103  52]
+ [110  35]]",0.45294771968854286,,,,,,,rbf
+1309,,Support Vector Classifier,100.0,20,"[[82 73]
+ [73 72]]",0.5127919911012236,,,,,,,sigmoid
+1310,,Support Vector Classifier,0.01,25,"[[96 59]
+ [76 69]]",0.5476084538375974,,,,,,,linear
+1311,,Support Vector Classifier,0.01,25,"[[155   0]
+ [145   0]]",0.5,,,,,,,poly
+1312,,Support Vector Classifier,0.01,25,"[[155   0]
+ [145   0]]",0.5,,,,,,,rbf
+1313,,Support Vector Classifier,0.01,25,"[[155   0]
+ [145   0]]",0.5,,,,,,,sigmoid
+1314,,Support Vector Classifier,0.1,25,"[[94 61]
+ [83 62]]",0.5170189098998887,,,,,,,linear
+1315,,Support Vector Classifier,0.1,25,"[[153   2]
+ [144   1]]",0.49699666295884315,,,,,,,poly
+1316,,Support Vector Classifier,0.1,25,"[[155   0]
+ [145   0]]",0.5,,,,,,,rbf
+1317,,Support Vector Classifier,0.1,25,"[[155   0]
+ [145   0]]",0.5,,,,,,,sigmoid
+1318,,Support Vector Classifier,1.0,25,"[[96 59]
+ [89 56]]",0.5027808676307007,,,,,,,linear
+1319,,Support Vector Classifier,1.0,25,"[[150   5]
+ [142   3]]",0.4942157953281424,,,,,,,poly
+1320,,Support Vector Classifier,1.0,25,"[[135  20]
+ [130  15]]",0.4872080088987764,,,,,,,rbf
+1321,,Support Vector Classifier,1.0,25,"[[131  24]
+ [116  29]]",0.5225806451612903,,,,,,,sigmoid
+1322,,Support Vector Classifier,10.0,25,"[[96 59]
+ [92 53]]",0.49243604004449393,,,,,,,linear
+1323,,Support Vector Classifier,10.0,25,"[[138  17]
+ [132  13]]",0.4899888765294772,,,,,,,poly
+1324,,Support Vector Classifier,10.0,25,"[[108  47]
+ [107  38]]",0.4794215795328142,,,,,,,rbf
+1325,,Support Vector Classifier,10.0,25,"[[80 75]
+ [70 75]]",0.5166852057842046,,,,,,,sigmoid
+1326,,Support Vector Classifier,100.0,25,"[[80 75]
+ [77 68]]",0.49254727474972193,,,,,,,linear
+1327,,Support Vector Classifier,100.0,25,"[[132  23]
+ [127  18]]",0.4878754171301446,,,,,,,poly
+1328,,Support Vector Classifier,100.0,25,"[[98 57]
+ [95 50]]",0.48854282536151283,,,,,,,rbf
+1329,,Support Vector Classifier,100.0,25,"[[72 83]
+ [68 77]]",0.49777530589543934,,,,,,,sigmoid
+1330,,Support Vector Classifier,0.01,30,"[[92 63]
+ [71 74]]",0.5519466073414906,,,,,,,linear
+1331,,Support Vector Classifier,0.01,30,"[[155   0]
+ [145   0]]",0.5,,,,,,,poly
+1332,,Support Vector Classifier,0.01,30,"[[155   0]
+ [145   0]]",0.5,,,,,,,rbf
+1333,,Support Vector Classifier,0.01,30,"[[155   0]
+ [145   0]]",0.5,,,,,,,sigmoid
+1334,,Support Vector Classifier,0.1,30,"[[86 69]
+ [71 74]]",0.5325917686318131,,,,,,,linear
+1335,,Support Vector Classifier,0.1,30,"[[152   3]
+ [143   2]]",0.4972191323692992,,,,,,,poly
+1336,,Support Vector Classifier,0.1,30,"[[155   0]
+ [145   0]]",0.5,,,,,,,rbf
+1337,,Support Vector Classifier,0.1,30,"[[155   0]
+ [145   0]]",0.5,,,,,,,sigmoid
+1338,,Support Vector Classifier,1.0,30,"[[92 63]
+ [81 64]]",0.5174638487208009,,,,,,,linear
+1339,,Support Vector Classifier,1.0,30,"[[80 75]
+ [81 64]]",0.47875417130144604,,,,,,,poly
+1340,,Support Vector Classifier,1.0,30,"[[95 60]
+ [95 50]]",0.4788654060066741,,,,,,,rbf
+1341,,Support Vector Classifier,1.0,30,"[[78 77]
+ [55 90]]",0.5619577308120133,,,,,,,sigmoid
+1342,,Support Vector Classifier,10.0,30,"[[92 63]
+ [83 62]]",0.5105672969966629,,,,,,,linear
+1343,,Support Vector Classifier,10.0,30,"[[80 75]
+ [83 62]]",0.4718576195773081,,,,,,,poly
+1344,,Support Vector Classifier,10.0,30,"[[96 59]
+ [92 53]]",0.49243604004449393,,,,,,,rbf
+1345,,Support Vector Classifier,10.0,30,"[[78 77]
+ [80 65]]",0.4757508342602892,,,,,,,sigmoid
+1346,,Support Vector Classifier,100.0,30,"[[84 71]
+ [89 56]]",0.46407119021134596,,,,,,,linear
+1347,,Support Vector Classifier,100.0,30,"[[69 86]
+ [71 74]]",0.4777530589543938,,,,,,,poly
+1348,,Support Vector Classifier,100.0,30,"[[96 59]
+ [95 50]]",0.482091212458287,,,,,,,rbf
+1349,,Support Vector Classifier,100.0,30,"[[75 80]
+ [74 71]]",0.48676307007786423,,,,,,,sigmoid
+1350,,Support Vector Classifier,0.01,35,"[[92 63]
+ [71 74]]",0.5519466073414906,,,,,,,linear
+1351,,Support Vector Classifier,0.01,35,"[[155   0]
+ [145   0]]",0.5,,,,,,,poly
+1352,,Support Vector Classifier,0.01,35,"[[155   0]
+ [145   0]]",0.5,,,,,,,rbf
+1353,,Support Vector Classifier,0.01,35,"[[155   0]
+ [145   0]]",0.5,,,,,,,sigmoid
+1354,,Support Vector Classifier,0.1,35,"[[85 70]
+ [73 72]]",0.5224694104560623,,,,,,,linear
+1355,,Support Vector Classifier,0.1,35,"[[152   3]
+ [143   2]]",0.4972191323692992,,,,,,,poly
+1356,,Support Vector Classifier,0.1,35,"[[155   0]
+ [145   0]]",0.5,,,,,,,rbf
+1357,,Support Vector Classifier,0.1,35,"[[155   0]
+ [145   0]]",0.5,,,,,,,sigmoid
+1358,,Support Vector Classifier,1.0,35,"[[91 64]
+ [83 62]]",0.5073414905450501,,,,,,,linear
+1359,,Support Vector Classifier,1.0,35,"[[81 74]
+ [81 64]]",0.481979977753059,,,,,,,poly
+1360,,Support Vector Classifier,1.0,35,"[[95 60]
+ [93 52]]",0.485761957730812,,,,,,,rbf
+1361,,Support Vector Classifier,1.0,35,"[[78 77]
+ [55 90]]",0.5619577308120133,,,,,,,sigmoid
+1362,,Support Vector Classifier,10.0,35,"[[89 66]
+ [83 62]]",0.5008898776418242,,,,,,,linear
+1363,,Support Vector Classifier,10.0,35,"[[80 75]
+ [83 62]]",0.4718576195773081,,,,,,,poly
+1364,,Support Vector Classifier,10.0,35,"[[93 62]
+ [91 54]]",0.48620689655172417,,,,,,,rbf
+1365,,Support Vector Classifier,10.0,35,"[[78 77]
+ [80 65]]",0.4757508342602892,,,,,,,sigmoid
+1366,,Support Vector Classifier,100.0,35,"[[77 78]
+ [77 68]]",0.48286985539488325,,,,,,,linear
+1367,,Support Vector Classifier,100.0,35,"[[69 86]
+ [72 73]]",0.47430478309232477,,,,,,,poly
+1368,,Support Vector Classifier,100.0,35,"[[94 61]
+ [92 53]]",0.4859844271412681,,,,,,,rbf
+1369,,Support Vector Classifier,100.0,35,"[[75 80]
+ [74 71]]",0.48676307007786423,,,,,,,sigmoid
+1370,,Support Vector Classifier,0.01,40,"[[91 64]
+ [69 76]]",0.5556173526140157,,,,,,,linear
+1371,,Support Vector Classifier,0.01,40,"[[155   0]
+ [145   0]]",0.5,,,,,,,poly
+1372,,Support Vector Classifier,0.01,40,"[[155   0]
+ [145   0]]",0.5,,,,,,,rbf
+1373,,Support Vector Classifier,0.01,40,"[[155   0]
+ [145   0]]",0.5,,,,,,,sigmoid
+1374,,Support Vector Classifier,0.1,40,"[[84 71]
+ [73 72]]",0.5192436040044495,,,,,,,linear
+1375,,Support Vector Classifier,0.1,40,"[[152   3]
+ [143   2]]",0.4972191323692992,,,,,,,poly
+1376,,Support Vector Classifier,0.1,40,"[[155   0]
+ [145   0]]",0.5,,,,,,,rbf
+1377,,Support Vector Classifier,0.1,40,"[[155   0]
+ [145   0]]",0.5,,,,,,,sigmoid
+1378,,Support Vector Classifier,1.0,40,"[[88 67]
+ [78 67]]",0.5149054505005562,,,,,,,linear
+1379,,Support Vector Classifier,1.0,40,"[[80 75]
+ [82 63]]",0.47530589543937707,,,,,,,poly
+1380,,Support Vector Classifier,1.0,40,"[[97 58]
+ [95 50]]",0.48531701890989987,,,,,,,rbf
+1381,,Support Vector Classifier,1.0,40,"[[78 77]
+ [55 90]]",0.5619577308120133,,,,,,,sigmoid
+1382,,Support Vector Classifier,10.0,40,"[[89 66]
+ [82 63]]",0.5043381535038932,,,,,,,linear
+1383,,Support Vector Classifier,10.0,40,"[[83 72]
+ [81 64]]",0.4884315906562847,,,,,,,poly
+1384,,Support Vector Classifier,10.0,40,"[[94 61]
+ [90 55]]",0.49288097886540605,,,,,,,rbf
+1385,,Support Vector Classifier,10.0,40,"[[78 77]
+ [80 65]]",0.4757508342602892,,,,,,,sigmoid
+1386,,Support Vector Classifier,100.0,40,"[[79 76]
+ [82 63]]",0.4720800889877642,,,,,,,linear
+1387,,Support Vector Classifier,100.0,40,"[[70 85]
+ [71 74]]",0.4809788654060067,,,,,,,poly
+1388,,Support Vector Classifier,100.0,40,"[[93 62]
+ [91 54]]",0.48620689655172417,,,,,,,rbf
+1389,,Support Vector Classifier,100.0,40,"[[75 80]
+ [74 71]]",0.48676307007786423,,,,,,,sigmoid
+1390,,Support Vector Classifier,0.01,45,"[[91 64]
+ [69 76]]",0.5556173526140157,,,,,,,linear
+1391,,Support Vector Classifier,0.01,45,"[[155   0]
+ [145   0]]",0.5,,,,,,,poly
+1392,,Support Vector Classifier,0.01,45,"[[155   0]
+ [145   0]]",0.5,,,,,,,rbf
+1393,,Support Vector Classifier,0.01,45,"[[155   0]
+ [145   0]]",0.5,,,,,,,sigmoid
+1394,,Support Vector Classifier,0.1,45,"[[84 71]
+ [73 72]]",0.5192436040044495,,,,,,,linear
+1395,,Support Vector Classifier,0.1,45,"[[152   3]
+ [143   2]]",0.4972191323692992,,,,,,,poly
+1396,,Support Vector Classifier,0.1,45,"[[155   0]
+ [145   0]]",0.5,,,,,,,rbf
+1397,,Support Vector Classifier,0.1,45,"[[155   0]
+ [145   0]]",0.5,,,,,,,sigmoid
+1398,,Support Vector Classifier,1.0,45,"[[88 67]
+ [79 66]]",0.5114571746384872,,,,,,,linear
+1399,,Support Vector Classifier,1.0,45,"[[80 75]
+ [82 63]]",0.47530589543937707,,,,,,,poly
+1400,,Support Vector Classifier,1.0,45,"[[97 58]
+ [95 50]]",0.48531701890989987,,,,,,,rbf
+1401,,Support Vector Classifier,1.0,45,"[[78 77]
+ [55 90]]",0.5619577308120133,,,,,,,sigmoid
+1402,,Support Vector Classifier,10.0,45,"[[91 64]
+ [83 62]]",0.5073414905450501,,,,,,,linear
+1403,,Support Vector Classifier,10.0,45,"[[83 72]
+ [81 64]]",0.4884315906562847,,,,,,,poly
+1404,,Support Vector Classifier,10.0,45,"[[94 61]
+ [90 55]]",0.49288097886540605,,,,,,,rbf
+1405,,Support Vector Classifier,10.0,45,"[[78 77]
+ [80 65]]",0.4757508342602892,,,,,,,sigmoid
+1406,,Support Vector Classifier,100.0,45,"[[74 81]
+ [71 74]]",0.4938820912124583,,,,,,,linear
+1407,,Support Vector Classifier,100.0,45,"[[70 85]
+ [71 74]]",0.4809788654060067,,,,,,,poly
+1408,,Support Vector Classifier,100.0,45,"[[93 62]
+ [91 54]]",0.48620689655172417,,,,,,,rbf
+1409,,Support Vector Classifier,100.0,45,"[[75 80]
+ [74 71]]",0.48676307007786423,,,,,,,sigmoid
+1410,,Support Vector Classifier,0.01,50,"[[91 64]
+ [69 76]]",0.5556173526140157,,,,,,,linear
+1411,,Support Vector Classifier,0.01,50,"[[155   0]
+ [145   0]]",0.5,,,,,,,poly
+1412,,Support Vector Classifier,0.01,50,"[[155   0]
+ [145   0]]",0.5,,,,,,,rbf
+1413,,Support Vector Classifier,0.01,50,"[[155   0]
+ [145   0]]",0.5,,,,,,,sigmoid
+1414,,Support Vector Classifier,0.1,50,"[[84 71]
+ [73 72]]",0.5192436040044495,,,,,,,linear
+1415,,Support Vector Classifier,0.1,50,"[[152   3]
+ [143   2]]",0.4972191323692992,,,,,,,poly
+1416,,Support Vector Classifier,0.1,50,"[[155   0]
+ [145   0]]",0.5,,,,,,,rbf
+1417,,Support Vector Classifier,0.1,50,"[[155   0]
+ [145   0]]",0.5,,,,,,,sigmoid
+1418,,Support Vector Classifier,1.0,50,"[[88 67]
+ [79 66]]",0.5114571746384872,,,,,,,linear
+1419,,Support Vector Classifier,1.0,50,"[[80 75]
+ [82 63]]",0.47530589543937707,,,,,,,poly
+1420,,Support Vector Classifier,1.0,50,"[[98 57]
+ [95 50]]",0.48854282536151283,,,,,,,rbf
+1421,,Support Vector Classifier,1.0,50,"[[78 77]
+ [55 90]]",0.5619577308120133,,,,,,,sigmoid
+1422,,Support Vector Classifier,10.0,50,"[[91 64]
+ [83 62]]",0.5073414905450501,,,,,,,linear
+1423,,Support Vector Classifier,10.0,50,"[[83 72]
+ [81 64]]",0.4884315906562847,,,,,,,poly
+1424,,Support Vector Classifier,10.0,50,"[[94 61]
+ [90 55]]",0.49288097886540605,,,,,,,rbf
+1425,,Support Vector Classifier,10.0,50,"[[78 77]
+ [80 65]]",0.4757508342602892,,,,,,,sigmoid
+1426,,Support Vector Classifier,100.0,50,"[[74 81]
+ [71 74]]",0.4938820912124583,,,,,,,linear
+1427,,Support Vector Classifier,100.0,50,"[[70 85]
+ [71 74]]",0.4809788654060067,,,,,,,poly
+1428,,Support Vector Classifier,100.0,50,"[[93 62]
+ [91 54]]",0.48620689655172417,,,,,,,rbf
+1429,,Support Vector Classifier,100.0,50,"[[75 80]
+ [74 71]]",0.48676307007786423,,,,,,,sigmoid
