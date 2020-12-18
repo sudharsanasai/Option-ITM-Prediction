@@ -13,3 +13,10 @@ Alternate Hypothesis
 HA: AUC > 0.50 (p-value < 0.05) 
 
 We postulate that any signal that exists in intraday data or over the range of a couple of days degenerates rapidly, crowded out by chaos and complex interconnection of observable features. As such, if our models result in an AUC score that is statistically different from AUC = 0.50 (purely random), we reject the null hypothesis.  
+
+# Co-contributors:
+Sudharsan Asaithambi
+Keshav Pant
+Emma Muhleman
+Gurneet Bedi
+
